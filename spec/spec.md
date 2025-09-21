@@ -20,7 +20,7 @@ To ensure consistency when converting recipes to Markdown, follow these persiste
 
 ## 4. Formatting
 
-- Do not include images, links, or promotional content.
+- Do not include images, links, or promotional content (except a final source URL per Section 9).
 - Use plain Markdown only.
 - Use metric and imperial units if both are provided; otherwise, preserve the original units.
 
@@ -31,11 +31,25 @@ To ensure consistency when converting recipes to Markdown, follow these persiste
 
 ## 6. File Naming
 
+- Save each recipe in the root of the repository
 - Save each recipe as a Markdown file with a slugified name (lowercase, hyphens for spaces, no special characters).
 
-## 7. Update spec.md
+## 7. Update the README.md which serves as an index of all recipes.
+
+- Add a link for the new recipe to the index
+- Follow the style of existing links
+- For now simple alphabetical order is fine
+
+## 8. Update spec.md
+
 - If new recipes require deviation from the guidelines in this document, update this spec.md file to reflect those changes.
 
+## 9. Source Attribution (Web-Derived Recipes)
+
+- If a recipe is adapted or transcribed from a publicly available webpage, append a `## Source` section at the end of the file.
+- Use one bare URL on a single line (no markdown link) prefixed by one of: `Source:`, `Adapted from:`, or `Inspired by:` depending on the level of change.
+- Do not include tracking parameters if avoidable; keep the canonical URL only.
+- Omit the section entirely for original or fully self-authored recipes.
 
 ---
 

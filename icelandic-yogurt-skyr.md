@@ -1,4 +1,4 @@
-# Icelandic Yogurt (Siggi’s Copycat Skyr)
+# Icelandic Skyr Yogurt
 
 ## Ingredients
 
@@ -18,3 +18,7 @@
 6. Line a colander with a double thickness of cheesecloth or muslin. Spoon the curds into the colander, removing the vanilla bean. Let drain in a cool place for 4–8 hours, reserving the whey.
 7. Transfer the strained curds to a bowl. Beat with a hand mixer, adding 1 tablespoon of reserved whey at a time, until silky and smooth.
 8. Sweeten to taste when serving. Reserve 1/2 cup of the finished yogurt to culture your next batch.
+
+## Source
+
+Adapted from: https://www.foodiewithfamily.com/icelandic-yogurt/
