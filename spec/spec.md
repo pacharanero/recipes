@@ -93,6 +93,7 @@ Use exactly one of these for `category`:
 - Savoury Dishes
 - Utility & Misc (non-food craft, household, equipment guides)
 - Guides (long-form technique references)
+- Drinks (cocktails and mixed beverages)
 
 ---
 
