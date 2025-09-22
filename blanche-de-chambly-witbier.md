@@ -3,7 +3,6 @@ slug: blanche-de-chambly-witbier
 title: Blanche de Chambly (Witbier Clone)
 tags: [brewing, beer, witbier, coriander, citrus, belgian, all-grain]
 category: Brewing
-status: published
 source_type: adapted
 ---
 

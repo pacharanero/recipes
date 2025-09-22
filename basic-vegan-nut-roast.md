@@ -1,3 +1,11 @@
+---
+slug: basic-vegan-nut-roast
+title: Basic Vegan Nut Roast
+tags: [vegan, roast, staple]
+category: Savoury Dishes
+source_type: adapted
+---
+
 # Basic Vegan Nut Roast
 
 ## Ingredients

@@ -1,3 +1,11 @@
+---
+slug: adelscott-malt-liquor
+title: Adelscott Malt Liquor (Clone)
+tags: [brewing, beer, smoked, speciality, all-grain]
+category: Brewing
+source_type: adapted
+---
+
 # Adelscott Malt Liquor (Clone)
 
 ## Ingredients

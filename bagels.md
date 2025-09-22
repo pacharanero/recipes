@@ -1,3 +1,11 @@
+---
+slug: bagels
+title: Bagels
+tags: [baking, bread, yeast]
+category: Baking & Sweets
+source_type: adapted
+---
+
 # Bagels
 
 ## Ingredients

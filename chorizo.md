@@ -1,3 +1,11 @@
+---
+slug: chorizo-dry-cured
+title: Chorizo (Dry Cured) – 5 kg Batch
+tags: [charcuterie, curing, pork, sausage]
+category: Savoury Dishes
+source_type: adapted
+---
+
 # Chorizo (Dry Cured) – 5 kg Batch
 
 ## Ingredients

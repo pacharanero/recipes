@@ -4,7 +4,6 @@ title: Chimay Cinq Cents (Tripel Clone)
 tags:
   [brewing, beer, tripel, belgian, high-gravity, all-grain, bottle-condition]
 category: Brewing
-status: published
 source_type: adapted
 ---
 
