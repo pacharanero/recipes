@@ -1,0 +1,138 @@
+site_name: Recipes
+site_description: A curated collection of recipes, brewing notes, guides, and cocktail formulas.
+site_url: https://pacharanero.github.io/recipes/
+repo_url: https://github.com/pacharanero/recipes
+repo_name: pacharanero/recipes
+edit_uri: ""
+
+docs_dir: recipes
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.sections
+    - content.code.copy
+    - search.highlight
+    - search.share
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.snippets
+
+plugins:
+  - search
+  # Future: add macros / awesome-pages if we restructure into subfolders
+
+nav:
+  - Home: index.md
+  - Categories:
+      - Baking & Sweets:
+          - bagels.md
+          - churros.md
+          - digestive-biscuits.md
+          - easy-banana-cookies.md
+          - eliza-actons-christmas-pudding-from-1845.md
+          - granola-bars.md
+          - jijonas-turron-turron-de-jijona.md
+          - mincemeat.md
+          - no-knead-dutch-oven-bread.md
+          - oat-biscuits.md
+          - skillingsbolle.md
+          - sponge-cakes-with-olive-oil-magdalenas.md
+      - Preserves & Condiments:
+          - apple-chutney.md
+          - basic-low-fat-salad-cream-skyr.md
+          - caesar-dressing.md
+          - indian-lime-pickle.md
+          - marrow-and-ginger-jam.md
+          - membrillo.md
+          - pickle.md
+          - quince-jam.md
+          - salad-cream-recipes.md
+          - tomato-ketchup.md
+          - worcestershire-sauce-recipe.md
+      - Basics & Staples:
+          - basic-vegan-nut-roast.md
+          - curry-pastes.md
+          - fresh-pasta.md
+          - homemade-tofu.md
+          - icelandic-yogurt-skyr.md
+          - picada-catalana.md
+          - spinach-and-ricotta-ravioli.md
+      - Brewing & Ferments:
+          - adelscott-malt-liquor.md
+          - blanche-de-chambly-witbier.md
+          - chimay-cinq-cents-tripel.md
+          - elderberry-wine.md
+          - elderflower-champagne.md
+          - ginger-beer.md
+          - hoegaarden-clone.md
+          - how-to-make-your-own-gin.md
+          - ne-ipa-jon-finch.md
+          - nettle-dandelion-and-burdock-beer.md
+      - Savoury Dishes:
+          - arancini-rice-balls.md
+          - broad-bean-sauce.md
+          - calentita.md
+          - cauliflower-potato-and-cheddar-soup.md
+          - chorizo.md
+          - courgette-and-arborio-rice-soup.md
+          - curry-goat-serves-5-6.md
+          - dry-cured-sausage.md
+          - fat-knackers.md
+          - gazpacho-soup.md
+          - hungarian-beef-goulash.md
+          - minestra.md
+          - minestrone-soup.md
+          - onion-bhaji.md
+          - papas-a-lo-pobre.md
+          - patatas-a-lo-pobre.md
+          - rolitos.md
+          - rosto.md
+          - spanish-style-rabbit-stew.md
+          - sweet-potato-masala-spiced-baked-beans.md
+          - torta-de-acelga.md
+          - unicorn-baked-beans.md
+      - Utility & Misc:
+          - brown-ink.md
+          - building-a-smoker.md
+          - raw-wood-finish.md
+          - saddle-soap.md
+      - Guides:
+          - bean-soaking-pressure-cooking-guide.md
+          - food-living-outside-play-technology-workshop.md
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/pacharanero/recipes
+      name: Source on GitHub
+extra_css:
+  - assets/stylesheets/nav-mirror.css

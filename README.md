@@ -28,6 +28,7 @@ All recipe markdown files currently live in the `recipes/` subdirectory. Links b
 ## Preserves & Condiments
 
 - [Apple Chutney](recipes/apple-chutney.md)
+- [Basic Low-Fat Salad Cream with Skyr](recipes/basic-low-fat-salad-cream-skyr.md)
 - [Caesar Dressing](recipes/caesar-dressing.md)
 - [Indian Lime Pickle](recipes/indian-lime-pickle.md)
 - [Marrow and Ginger Jam](recipes/marrow-and-ginger-jam.md)
