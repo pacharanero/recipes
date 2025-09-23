@@ -9,7 +9,6 @@ docs_dir: recipes
 
 theme:
   name: material
-  custom_dir: overrides
   language: en
   features:
     - navigation.instant
@@ -43,7 +42,8 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      check_paths: false
 
 plugins:
   - search
@@ -135,4 +135,4 @@ extra:
       link: https://github.com/pacharanero/recipes
       name: Source on GitHub
 extra_css:
-  - assets/stylesheets/nav-mirror.css
+  # - assets/stylesheets/nav-mirror.css

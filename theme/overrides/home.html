@@ -1,0 +1,43 @@
+{% extends "main.html" %} {% block content %}
+
+<div class="md-content__inner md-typeset">
+  {{ page.content }}
+  <hr />
+  <h2 id="site-map">Site Map</h2>
+  <p class="nav-mirror-intro">
+    Complete navigation tree (mirrors left sidebar). Updates automatically when
+    navigation changes.
+  </p>
+  {{ context() | pretty }} {% if nav %}
+  <div class="nav-mirror">
+    <ul>
+      {%- for top in nav %}
+      <li>
+        <a href="{{ top.url | url }}">{{ top.title }}</a>
+        {%- if top.children %}
+        <ul>
+          {%- for level1 in top.children %}
+          <li>
+            <a href="{{ level1.url | url }}">{{ level1.title }}</a>
+            {%- if level1.children %}
+            <ul>
+              {%- for level2 in level1.children %}
+              <li><a href="{{ level2.url | url }}">{{ level2.title }}</a></li>
+              {%- endfor %}
+            </ul>
+            {%- endif %}
+          </li>
+          {%- endfor %}
+        </ul>
+        {%- endif %}
+      </li>
+      {%- endfor %}
+    </ul>
+  </div>
+  {% else %}
+  <p class="nav-mirror-intro">
+    (Navigation not available in template context.)
+  </p>
+  {% endif %}
+</div>
+{% endblock %}
