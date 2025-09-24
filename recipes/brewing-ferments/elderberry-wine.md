@@ -2,7 +2,7 @@
 slug: elderberry-wine
 title: Elderberry Wine
 tags: [drink, wine, ferment]
-category: Preserves & Condiments
+category: Brewing
 ---
 
 # Elderberry Wine

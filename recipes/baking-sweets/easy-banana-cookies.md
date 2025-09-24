@@ -1,3 +1,10 @@
+---
+slug: easy-banana-cookies
+title: Easy Banana Cookies
+category: Baking & Sweets
+tags: [baking, cookies, fruit, quick]
+---
+
 # Easy Banana Cookies
 
 ## Ingredients
