@@ -1,11 +1,11 @@
 ---
-slug: basic-low-fat-salad-cream-skyr
-title: Basic Low-Fat Salad Cream with Skyr
+slug: salad-cream-skyr
+title: Low-Fat Salad Cream made with Skyr
 tags: [condiment, dressing, low-fat]
 category: Preserves & Condiments
 ---
 
-# Basic Low-Fat Salad Cream with Skyr
+# Low-Fat Salad Cream made with Skyr
 
 ## Ingredients
 

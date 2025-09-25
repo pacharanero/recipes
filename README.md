@@ -28,7 +28,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 ## Preserves & Condiments
 
 - [Apple Chutney](recipes/preserves-condiments/apple-chutney.md)
-- [Basic Low-Fat Salad Cream with Skyr](recipes/preserves-condiments/basic-low-fat-salad-cream-skyr.md)
+- [Low-Fat Salad Cream made with Skyr](recipes/preserves-condiments/salad-cream-skyr.md)
 - [Caesar Dressing](recipes/preserves-condiments/caesar-dressing.md)
 - [Indian Lime Pickle](recipes/preserves-condiments/indian-lime-pickle.md)
 - [Marrow and Ginger Jam](recipes/preserves-condiments/marrow-and-ginger-jam.md)
