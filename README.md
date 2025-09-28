@@ -19,6 +19,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Eliza Acton's Christmas Pudding (1845)](recipes/baking-sweets/eliza-actons-christmas-pudding-from-1845.md)
 - [Granola Bars](recipes/baking-sweets/granola-bars.md)
 - [Jijona Turrón (Turron de Jijona)](recipes/baking-sweets/jijonas-turron-turron-de-jijona.md)
+- [Rich Chocolate Terrine](recipes/baking-sweets/rich-chocolate-terrine.md)
 - [Mincemeat](recipes/baking-sweets/mincemeat.md)
 - [No-Knead Dutch Oven Bread](recipes/baking-sweets/no-knead-dutch-oven-bread.md)
 - [Oat Biscuits](recipes/baking-sweets/oat-biscuits.md)
