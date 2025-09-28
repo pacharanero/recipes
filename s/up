@@ -7,4 +7,26 @@ set -e  # Exit on error
 # run chmod +x s/<filename> to allow this
 
 # starts up the docker compose mkdocs server for development
-docker compose up
+
+# If the compose file defines the mkdocs dev server on 8000 or another port, you can
+# override by exporting MKDOCS_PORT before running. Default: 8008 (per project request).
+PORT="${MKDOCS_PORT:-8008}"
+
+# Start docker compose in background (so we can launch browser) unless already attached.
+docker compose up -d
+
+# Give container a brief moment to start
+sleep 2
+URL="http://localhost:${PORT}"
+
+# Try to open the browser (Linux xdg-open, macOS open, fallback to echo)
+if command -v xdg-open >/dev/null 2>&1; then
+    xdg-open "$URL" >/dev/null 2>&1 &
+elif command -v open >/dev/null 2>&1; then
+    open "$URL" >/dev/null 2>&1 &
+else
+    echo "Please open $URL in your browser." >&2
+fi
+
+
+
