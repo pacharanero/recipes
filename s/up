@@ -13,7 +13,7 @@ set -e  # Exit on error
 PORT="${MKDOCS_PORT:-8008}"
 
 # Start docker compose in background (so we can launch browser) unless already attached.
-docker compose up -d
+docker compose up
 
 # Give container a brief moment to start
 sleep 2

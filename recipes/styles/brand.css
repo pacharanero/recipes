@@ -1,0 +1,44 @@
+:root {
+  /* Light scheme custom primary */
+  --md-primary-fg-color: #D6C9AA;
+  --md-primary-fg-color--light: #e4dac3;
+  --md-primary-fg-color--dark: #b7a782;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: #f5f5f2;
+}
+
+/* Dark scheme overrides */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #D6C9AA;
+  --md-primary-fg-color--light: #e4dac3;
+  --md-primary-fg-color--dark: #b7a782;
+  --md-primary-bg-color: #1c1c1c;
+  --md-primary-bg-color--light: #2a2a2a;
+}
+
+/* Improve contrast for links on tinted backgrounds */
+.md-typeset a {
+  color: var(--md-primary-fg-color--dark);
+}
+
+/* Header / nav brand adjustments */
+.md-header, .md-tabs {
+  background-color: var(--md-primary-fg-color);
+}
+
+/* Active nav link contrast */
+.md-nav__item .md-nav__link--active, .md-tabs__link--active {
+  color: #2d2d2d;
+  font-weight: 600;
+}
+
+/* Buttons using primary */
+.md-button--primary, .md-typeset .md-button--primary {
+  background-color: var(--md-primary-fg-color);
+  color: #2d2d2d;
+}
+
+/* Search bar focus ring harmonized */
+.md-search__input:focus {
+  box-shadow: 0 0 0 2px var(--md-primary-fg-color--dark);
+}

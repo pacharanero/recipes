@@ -49,6 +49,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Icelandic Yogurt (Skyr)](recipes/basics-staples/icelandic-yogurt-skyr.md)
 - [Picada Catalana](recipes/basics-staples/picada-catalana.md)
 - [Spinach and Ricotta Ravioli](recipes/basics-staples/spinach-and-ricotta-ravioli.md)
+- [Olive Oil Béchamel Sauce](recipes/basics-staples/olive-oil-bechamel-sauce.md)
 
 ## Brewing / Fermented Drinks
 
@@ -75,6 +76,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Dry Cured Sausage](recipes/savoury-dishes/dry-cured-sausage.md)
 - [Fat Knackers](recipes/savoury-dishes/fat-knackers.md)
 - [Gazpacho Soup](recipes/savoury-dishes/gazpacho-soup.md)
+- [Croquetas De Jamón](recipes/savoury-dishes/ham-bechamel-croquettes.md)
 - [Hungarian Beef Goulash](recipes/savoury-dishes/hungarian-beef-goulash.md)
 - [Minestra](recipes/savoury-dishes/minestra.md)
 - [Minestrone Soup](recipes/savoury-dishes/minestrone-soup.md)

@@ -23,17 +23,20 @@ theme:
     - toc.follow
   palette:
     - scheme: default
-      primary: teal
+      primary: custom
       accent: amber
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: teal
+      primary: custom
       accent: amber
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+  # Custom CSS to define the custom primary color variable
+extra_css:
+  - styles/brand.css
 
 markdown_extensions:
   - admonition
@@ -49,6 +52,8 @@ markdown_extensions:
 
 plugins:
   - search
+  - tags:
+      tags_file: tags.md
 
 extra:
   generator: false

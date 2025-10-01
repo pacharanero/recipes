@@ -26,14 +26,3 @@ Measurements are metric-first. Historical or source-specific units are preserved
 ## Source Attribution
 
 Where a recipe is adapted, a Source section appears at the bottom with a canonical URL. Original and family recipes omit this section.
-
-## Roadmap
-
-- Finalize tag taxonomy
-- Normalize any remaining draft conversions
-- Add automated tag and category index generation
-- (Optional) Reintroduce a generated site map when stable
-
----
-
-Enjoy, tweak, and extend.
