@@ -80,6 +80,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Hungarian Beef Goulash](recipes/savoury-dishes/hungarian-beef-goulash.md)
 - [Minestra](recipes/savoury-dishes/minestra.md)
 - [Minestrone Soup](recipes/savoury-dishes/minestrone-soup.md)
+- [Pumpkin & Blue Cheese Risotto](recipes/savoury-dishes/pumpkin-blue-cheese-risotto.md)
 - [Onion Bhaji](recipes/savoury-dishes/onion-bhaji.md)
 - [Papas a lo Pobre](recipes/savoury-dishes/papas-a-lo-pobre.md)
 - [Patatas a lo Pobre](recipes/savoury-dishes/patatas-a-lo-pobre.md)
