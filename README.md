@@ -13,6 +13,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 ## Baking & Sweets
 
 - [Bagels](recipes/baking-sweets/bagels.md)
+- [Butter Toffee (without thermometer)](recipes/baking-sweets/butter-toffee.md)
 - [Churros](recipes/baking-sweets/churros.md)
 - [Digestive Biscuits](recipes/baking-sweets/digestive-biscuits.md)
 - [Easy Banana Cookies](recipes/baking-sweets/easy-banana-cookies.md)
@@ -21,28 +22,36 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Jijona Turrón (Turron de Jijona)](recipes/baking-sweets/jijonas-turron-turron-de-jijona.md)
 - [Rich Chocolate Terrine](recipes/baking-sweets/rich-chocolate-terrine.md)
 - [Mincemeat](recipes/baking-sweets/mincemeat.md)
+- [No-Knead Baguettes](recipes/baking-sweets/no-knead-baguettes.md)
 - [No-Knead Dutch Oven Bread](recipes/baking-sweets/no-knead-dutch-oven-bread.md)
 - [Oat Biscuits](recipes/baking-sweets/oat-biscuits.md)
+- [Peanut Chocolate Oat Protein Energy Bars](recipes/baking-sweets/peanut-choc-oat-protein-bars.md)
 - [Skillingsbolle](recipes/baking-sweets/skillingsbolle.md)
 - [Sponge Cakes with Olive Oil (Magdalenas)](recipes/baking-sweets/sponge-cakes-with-olive-oil-magdalenas.md)
 
 ## Preserves & Condiments
 
 - [Apple Chutney](recipes/preserves-condiments/apple-chutney.md)
+- [Beetroot Relish](recipes/preserves-condiments/beetroot-relish.md)
 - [Low-Fat Salad Cream made with Skyr](recipes/preserves-condiments/salad-cream-skyr.md)
 - [Caesar Dressing](recipes/preserves-condiments/caesar-dressing.md)
+- [Chilli Jam](recipes/preserves-condiments/chilli-jam.md)
 - [Indian Lime Pickle](recipes/preserves-condiments/indian-lime-pickle.md)
+- [Lime Marmalade](recipes/preserves-condiments/lime-marmalade.md)
 - [Marrow and Ginger Jam](recipes/preserves-condiments/marrow-and-ginger-jam.md)
 - [Membrillo](recipes/preserves-condiments/membrillo.md)
 - [Pickle (Mixed)](recipes/preserves-condiments/pickle.md)
 - [Quince Jam](recipes/preserves-condiments/quince-jam.md)
 - [Salad Cream Recipes](recipes/preserves-condiments/salad-cream-recipes.md)
 - [Tomato Ketchup](recipes/preserves-condiments/tomato-ketchup.md)
+- [Tomato Relish](recipes/preserves-condiments/tomato-relish.md)
+- [Wicked's Wholegrain Mustard](recipes/preserves-condiments/wholegrain-mustard.md)
 - [Worcestershire Sauce](recipes/preserves-condiments/worcestershire-sauce-recipe.md)
 
 ## Basics & Staples
 
 - [Basic Vegan Nut Roast](recipes/basics-staples/basic-vegan-nut-roast.md)
+- [Chapatis - Flatbreads - Tortillas](recipes/basics-staples/chapatis-flatbreads.md)
 - [Curry Pastes (Korma, Jalfrezi, Rogan Josh, Tikka Masala, Vindaloo)](recipes/basics-staples/curry-pastes.md)
 - [Fresh Pasta (Base + Variations)](recipes/basics-staples/fresh-pasta.md)
 - [Homemade Tofu](recipes/basics-staples/homemade-tofu.md)

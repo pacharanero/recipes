@@ -1,10 +1,17 @@
 :root {
   /* Light scheme custom primary */
-  --md-primary-fg-color: #D6C9AA;
-  --md-primary-fg-color--light: #e4dac3;
-  --md-primary-fg-color--dark: #b7a782;
+  --md-primary-fg-color: #a89977;
+  --md-primary-fg-color--light: #c9c97c;
+  --md-primary-fg-color--dark: #675e49;
   --md-primary-bg-color: #ffffff;
   --md-primary-bg-color--light: #f5f5f2;
+  
+  /* Logo images for light/dark modes */
+  --logo-dark: url('../assets/recipe-website-logo-black.svg');
+  --logo-light: url('../assets/recipe-website-logo-white.svg');
+  
+  /* Typography overrides */
+  --md-text-font: "Georgia", "Times New Roman", "Noto Serif", serif;
 }
 
 /* Dark scheme overrides */
@@ -16,6 +23,28 @@
   --md-primary-bg-color--light: #2a2a2a;
 }
 
+/* Logo switching for light/dark modes */
+.md-header__button.md-logo img {
+  /* Hide the default SVG in light mode and show black version */
+  display: none;
+}
+
+.md-header__button.md-logo::after {
+  content: '';
+  background-image: var(--logo-light);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* Dark mode logo */
+[data-md-color-scheme="slate"] .md-header__button.md-logo::after {
+  background-image: var(--logo-dark);
+}
+
 /* Improve contrast for links on tinted backgrounds */
 .md-typeset a {
   color: var(--md-primary-fg-color--dark);
@@ -23,7 +52,7 @@
 
 /* Header / nav brand adjustments */
 .md-header, .md-tabs {
-  background-color: var(--md-primary-fg-color);
+  background-color: var(--md-primary-fg-color--dark);
 }
 
 /* Active nav link contrast */
@@ -41,4 +70,41 @@
 /* Search bar focus ring harmonized */
 .md-search__input:focus {
   box-shadow: 0 0 0 2px var(--md-primary-fg-color--dark);
+}
+
+/* Logo sizing and positioning */
+.md-header__button.md-logo {
+  width: 2.4rem;
+  height: 2.4rem;
+  margin: .2rem .4rem;
+}
+
+.md-header__button.md-logo::after {
+  max-width: 2rem;
+  max-height: 2rem;
+}
+
+/* Apply Georgia font to all typography */
+.md-typeset,
+body {
+  font-family: var(--md-text-font);
+}
+
+/* Ensure headings also use Georgia */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: var(--md-text-font);
+  font-weight: 600;
+}
+
+/* Navigation and interface text */
+.md-nav__title,
+.md-nav__item,
+.md-header__title,
+.md-tabs__link {
+  font-family: var(--md-text-font);
 }

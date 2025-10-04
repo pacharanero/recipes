@@ -10,6 +10,8 @@ docs_dir: recipes
 theme:
   name: material
   language: en
+  logo: assets/recipe-website-logo-white.svg
+  favicon: assets/recipe-website-logo-white.svg
   features:
     - navigation.tabs
     - navigation.instant
