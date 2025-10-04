@@ -1,8 +1,17 @@
+/* Import Google Fonts for reliable cross-platform serif typography */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
+
 :root {
-  /* Light scheme custom primary */
-  --md-primary-fg-color: #a89977;
-  --md-primary-fg-color--light: #c9c97c;
-  --md-primary-fg-color--dark: #675e49;
+  /* Brand color palette - consistent across modes */
+  --brand-primary: #D6C9AA;
+  --brand-primary-light: #e4dac3;
+  --brand-primary-dark: #b7a782;
+  --brand-primary-darker: #8a7d65;
+  
+  /* Light scheme colors */
+  --md-primary-fg-color: var(--brand-primary);
+  --md-primary-fg-color--light: var(--brand-primary-light);
+  --md-primary-fg-color--dark: var(--brand-primary-darker);
   --md-primary-bg-color: #ffffff;
   --md-primary-bg-color--light: #f5f5f2;
   
@@ -10,28 +19,28 @@
   --logo-dark: url('../assets/recipe-website-logo-black.svg');
   --logo-light: url('../assets/recipe-website-logo-white.svg');
   
-  /* Typography overrides */
-  --md-text-font: "Georgia", "Times New Roman", "Noto Serif", serif;
+  /* Typography overrides - reliable web font with Georgia fallback */
+  --md-text-font: "Crimson Text", "Georgia", "Times New Roman", "Noto Serif", serif;
 }
 
 /* Dark scheme overrides */
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #D6C9AA;
-  --md-primary-fg-color--light: #e4dac3;
-  --md-primary-fg-color--dark: #b7a782;
+  --md-primary-fg-color: var(--brand-primary);
+  --md-primary-fg-color--light: var(--brand-primary-light);
+  --md-primary-fg-color--dark: var(--brand-primary-dark);
   --md-primary-bg-color: #1c1c1c;
   --md-primary-bg-color--light: #2a2a2a;
 }
 
 /* Logo switching for light/dark modes */
 .md-header__button.md-logo img {
-  /* Hide the default SVG in light mode and show black version */
+  /* Hide the default SVG and use CSS background instead */
   display: none;
 }
 
 .md-header__button.md-logo::after {
   content: '';
-  background-image: var(--logo-light);
+  background-image: var(--logo-light); /* White logo for light mode */
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -40,7 +49,7 @@
   display: block;
 }
 
-/* Dark mode logo */
+/* Dark mode logo - switch to black */
 [data-md-color-scheme="slate"] .md-header__button.md-logo::after {
   background-image: var(--logo-dark);
 }
@@ -88,9 +97,10 @@
 .md-typeset,
 body {
   font-family: var(--md-text-font);
+  font-size: 1.05em;
 }
 
-/* Ensure headings also use Georgia */
+/* Ensure headings also use Georgia with more uniform sizing */
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3,
@@ -101,10 +111,30 @@ body {
   font-weight: 600;
 }
 
+/* Constrain heading sizes to be less extreme */
+.md-typeset h1 {
+  font-size: 1.8em;
+}
+
+.md-typeset h2 {
+  font-size: 1.5em;
+}
+
+.md-typeset h3 {
+  font-size: 1.3em;
+}
+
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-size: 1.15em;
+}
+
 /* Navigation and interface text */
 .md-nav__title,
 .md-nav__item,
 .md-header__title,
 .md-tabs__link {
   font-family: var(--md-text-font);
+  font-size: 1.05em;
 }

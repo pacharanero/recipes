@@ -44,6 +44,11 @@ To ensure consistency when converting recipes to Markdown, follow these persiste
 - Use section headers for different types of recipe
 - Under each section alphabetical order is fine
 
+## 7a. Navigation Links
+
+- When linking to category sections from the main index, link to the first recipe alphabetically in that category rather than attempting to create category index pages.
+- Users can then use the site navigation to browse within categories.
+
 ## 8. Update spec.md
 
 - If new recipes require deviation from the guidelines in this document, update this spec.md file to reflect those changes.

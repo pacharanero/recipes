@@ -8,16 +8,13 @@ Welcome to my personal collection of cooking, brewing, preserving and DIY utilit
 
 ## Structure
 
-- Baking & Sweets
-- Preserves & Condiments
-- Basics & Staples
-- Brewing & Ferments
-- Savoury Dishes
-- Utility & Misc
-- Guides
-- Cocktails (see the dedicated cocktails index)
-
-Use the left navigation to explore categories. Each recipe includes consistent frontmatter (slug, title, tags, category) to support future automation, search, and filtering.
+- [Baking & Sweets](baking-sweets/bagels/)
+- [Preserves & Condiments](preserves-condiments/apple-chutney/)
+- [Basics & Staples](basics-staples/bechamel-sauce/)
+- [Brewing & Ferments](brewing-ferments/adelscott-malt-liquor/)
+- [Savoury Dishes](savoury-dishes/arancini-rice-balls/)
+- [Utility & Misc](utility-misc/bean-soaking-pressure-cooking-guide/)
+- [Cocktails](cocktails/) (see the dedicated cocktails index)
 
 ## Conventions
 
