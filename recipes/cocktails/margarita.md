@@ -7,6 +7,8 @@ category: Drinks
 
 # Margarita
 
+See also [frozen margarita](frozen-margarita.md).
+
 ## Ingredients
 
 - 40 ml tequila (100% agave)

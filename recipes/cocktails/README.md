@@ -106,3 +106,4 @@ All cocktails are in individual Markdown files with YAML frontmatter (slug, titl
 - [White Lady](white-lady.md)
 - [White Russian](white-russian.md)
 - [Zombie](zombie.md)
+- [Frozen Margarita](frozen-margarita.md)
