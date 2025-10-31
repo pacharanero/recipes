@@ -50,6 +50,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 
 ## Basics & Staples
 
+- [2-Ingredient Naan Breads](recipes/basics-staples/two-ingredient-naan-breads.md)
 - [Basic Vegan Nut Roast](recipes/basics-staples/basic-vegan-nut-roast.md)
 - [Chapatis - Flatbreads - Tortillas](recipes/basics-staples/chapatis-flatbreads.md)
 - [Curry Pastes (Korma, Jalfrezi, Rogan Josh, Tikka Masala, Vindaloo)](recipes/basics-staples/curry-pastes.md)

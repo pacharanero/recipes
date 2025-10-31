@@ -10,7 +10,7 @@ Welcome to my personal collection of cooking, brewing, preserving and DIY utilit
 
 - [Baking & Sweets](baking-sweets/bagels/)
 - [Preserves & Condiments](preserves-condiments/apple-chutney/)
-- [Basics & Staples](basics-staples/bechamel-sauce/)
+- [Basics & Staples](basics-staples/two-ingredient-naan-breads/)
 - [Brewing & Ferments](brewing-ferments/adelscott-malt-liquor/)
 - [Savoury Dishes](savoury-dishes/arancini-rice-balls/)
 - [Utility & Misc](utility-misc/bean-soaking-pressure-cooking-guide/)
