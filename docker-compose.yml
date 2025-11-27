@@ -1,7 +1,7 @@
 # This is a Docker Compose file for local development.
 services:
 
-  mkdocs: # Digital Growth Charts Documentation
+  mkdocs:
     build: .
     environment:
       - ENABLE_PDF_EXPORT=0 # Makes PDF export an option, default disabled for local dev
