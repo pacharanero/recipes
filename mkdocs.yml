@@ -13,6 +13,11 @@ theme:
   logo: assets/recipe-website-logo-white.svg
   favicon: assets/recipe-website-logo-white.svg
   features:
+    - content.action.edit # explicitly adds edit button (Material4MkDocs9.0)
+    - content.action.view # explicitly adds view button (Material4MkDocs9.0)
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
     - navigation.tabs
     - navigation.instant
     - navigation.tracking
