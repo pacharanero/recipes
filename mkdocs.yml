@@ -3,7 +3,7 @@ site_description: A curated collection of recipes, brewing notes, guides, and co
 site_url: https://pacharanero.github.io/recipes/
 repo_url: https://github.com/pacharanero/recipes
 repo_name: pacharanero/recipes
-edit_uri: ""
+edit_uri: edit/main/recipes/
 
 docs_dir: recipes
 
