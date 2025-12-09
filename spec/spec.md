@@ -2,71 +2,75 @@
 
 To ensure consistency when converting recipes to Markdown, follow these persistent prompt instructions:
 
-## 1. Title
+## Title
 
 - Use a single H1 heading for the recipe name at the top of the file.
 
-## 2. Ingredients
+## Ingredients
 
 - Use an H2 heading (`## Ingredients`).
 - List all ingredients as bullet points, one per line, with clear measurements and preparation notes.
 - Exclude any non-essential commentary or tips.
 - If non-metric units are used, add a conversion to metric in parentheses after the original unit.
 
-## 3. Instructions
+## Instructions
 
 - Use an H2 heading (`## Instructions`).
 - Write the method as a numbered list, with each step as a single, clear instruction.
 - Only include essential steps for making the recipe. Omit tips, serving suggestions, and non-essential commentary.
 - If non-metric units are used, add a conversion to metric in parentheses after the original unit.
 
-## 4. Formatting
+## Language and Spelling
 
-- Do not include images, links, or promotional content (except a final source URL per Section 9).
+- Use British English spellings eg. sanit*ise* not sanit*ize*.
+
+## Formatting
+
+- Do not include images, links, or promotional content (except a final source URL per the Source Attribution section).
 - Use plain Markdown only.
 - Use metric and imperial units if both are provided; otherwise, preserve the original units.
 
-## 5. Exclusions
+## Exclusions
 
 - Exclude all non-recipe content: introductions, stories, nutrition, comments, reviews, and advertisements.
 - Only include ingredients and method required to make the recipe.
 
-## 6. File Naming and location
+## File Naming and location
 
 - Save each recipe in the root of the repository
 - Save each recipe as a Markdown file with a slugified name (lowercase, hyphens for spaces, no special characters).
 - Once converted and reformatted to the final version the files should be moved to the root directory of the repository.
 
-## 7. Update the README.md which serves as an index of all recipes.
+## Update the README.md which serves as an index of all recipes.
 
 - Add a link for the new recipe to the index
 - Follow the style of existing links
 - Use section headers for different types of recipe
 - Under each section alphabetical order is fine
 
-## 7a. Navigation Links
+## Navigation Links
 
 - When linking to category sections from the main index, link to the first recipe alphabetically in that category rather than attempting to create category index pages.
 - Users can then use the site navigation to browse within categories.
 
-## 8. Update spec.md
+## Update spec.md
 
 - If new recipes require deviation from the guidelines in this document, update this spec.md file to reflect those changes.
 
-## 9. Source Attribution (Web-Derived Recipes)
+## Source Attribution (Web-Derived Recipes)
 
 - If a recipe is adapted or transcribed from a publicly available webpage, append a `## Source` section at the end of the file.
 - Use one bare URL on a single line (no markdown link) prefixed by one of: `Source:`, `Adapted from:`, or `Inspired by:` depending on the level of change.
 - Do not include tracking parameters if avoidable; keep the canonical URL only.
 - Omit the section entirely for original or fully self-authored recipes.
 
-## 10. Website creation
+## Website creation
 
 - The content here will be published to the web as a GitHub Pages site using a static site generator
 - The static site generator to use is Mintlify
 - Publication should be automatic using an appropriate GitHub Action
 
-## 11. YAML Frontmatter
+## YAML Frontmatter
 
 All recipe Markdown files created or updated from now on MUST begin with a YAML frontmatter block of the form:
 
