@@ -66,6 +66,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Adelscott Malt Liquor (Clone)](recipes/brewing-ferments/adelscott-malt-liquor.md)
 - [Blanche de Chambly (Witbier Clone)](recipes/brewing-ferments/blanche-de-chambly-witbier.md)
 - [Chimay Cinq Cents (Tripel Clone)](recipes/brewing-ferments/chimay-cinq-cents-tripel.md)
+ - [Duvel (Belgian Golden Strong Ale Clone)](recipes/brewing-ferments/duvel-belgian-golden-strong-ale.md)
 - [Elderberry Wine](recipes/brewing-ferments/elderberry-wine.md)
 - [Elderflower Champagne](recipes/brewing-ferments/elderflower-champagne.md)
 - [Ginger Beer](recipes/brewing-ferments/ginger-beer.md)
