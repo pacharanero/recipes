@@ -3,37 +3,39 @@ slug: duvel-belgian-golden-strong-ale
 title: Duvel (Belgian Golden Strong Ale Clone)
 tags: [brewing, beer, belgian, golden-strong, high-gravity, all-grain, bottle-condition]
 category: Brewing
-source_type: inspired
+source_type: adapted
 ---
 
 # Duvel (Belgian Golden Strong Ale Clone)
 
 ## Ingredients
 
-- 4.95 kg (10.9 lb) Belgian pilsner malt
-- 950 g (2.1 lb) corn sugar (dextrose), added late in the boil
-- 25 g (0.9 oz, ~5.4% AA) Styrian Goldings hops – 90 min
-- 34 g (1.2 oz, ~4.5% AA) Saaz hops – 15 min
-- Belgian strong ale yeast (e.g. WLP570, WY1388, or similar)
-- 150 g (5.3 oz) white table sugar for priming (aim ~3.0–3.5 vols CO₂)
-- Water: soft to moderately hard; keep sulfate moderate and chloride balanced
+- 5.2 kg (11.5 lb) Belgian Pilsner malt
+- 230 g (8 oz) corn sugar (kettle addition)
+- 450 g (1 lb) corn sugar (dosage addition after primary)
+- 34 g (1.2 oz, ~5% AA) Styrian Goldings hops – 60 min
+- 27 g (0.93 oz, ~4% AA) Saaz hops – 15 min
+- 21 g (0.75 oz) Saaz hops – flameout/0 min
+- 1 tsp Irish moss – 15 min
+- 1/4 tsp yeast nutrients – 15 min
+- "A pinch" (~1/16 tsp) yeast nutrients – with dosage sugar
+- Wyeast 1388 (Belgian Strong Ale) or White Labs WLP570 (Belgian Golden Ale) yeast – build a 3 L (3 qt) starter
+- Corn sugar for priming if bottling (about 1 cup / 150–160 g to reach ~3+ vols CO₂)
 
-_Targets (approximate, for 19–20 L / 5.0–5.25 gal): OG ~1.074–1.084, FG 1.006–1.010, ABV ~8.5–9.5%, IBU mid-20s._
+_Targets for 19 L (5 gal): OG 1.061, FG 1.007, ABV ~8.5%, IBU ~30, SRM ~3._
 
 ## Instructions
 
-1. Mash crushed pilsner malt in 18 L (4.8 gal) of water at 65°C (149°F) for 90 minutes.
-2. Vorlauf, run off, and sparge with 78°C (172°F) water to collect enough wort for a 90 minute boil (around 27–28 L / 7.1–7.4 gal pre-boil).
-3. Bring to a rolling boil and add Styrian Goldings hops for the full 90 minutes.
-4. With 15 minutes left in the boil, add Saaz hops and gradually stir in the corn sugar until fully dissolved.
-5. At the end of the boil, chill the wort quickly to 18–19°C (64–66°F), then aerate well.
-6. Transfer to a sanitized fermenter, leaving hop debris behind, and adjust volume to 19–20 L (5.0–5.25 gal) if needed.
-7. Pitch a large, healthy starter of Belgian strong ale yeast (or two fresh packs).
-8. Ferment at 18–19°C (64–66°F) for 2–3 days, then let the temperature rise to 22–24°C (72–75°F) to finish.
-9. When gravity is stable in the target FG range (usually after 10–14 days), rack to secondary and condition 3–4 weeks at cool cellar temperature if possible.
-10. Prime with 150 g (5.3 oz) sugar, bottle in heavy glass rated for high carbonation, and keep at 20–22°C (68–72°F) for 2–3 weeks to carbonate.
-11. Age bottles cool (10–14°C / 50–57°F) for at least 6–8 weeks; the beer improves further with longer aging.
+1. Mash in around 20 L (5.3 gal) of water at 55°C (131°F) and slowly heat over ~15 minutes to 60°C (140°F).
+2. Raise the mash to 64°C (148°F) with boiling water and rest for 60 minutes. Mash out, vorlauf, and sparge at 76°C (168°F) to collect enough wort for a 90-minute boil. (For a more fermentable wort, you can start at ~37°C / 99°F and ramp slowly to mash-out over 90–180 minutes.)
+3. Boil 90 minutes. Add Styrian Goldings at 60 minutes.
+4. With 15 minutes left, add Irish moss, yeast nutrients (kettle addition), Saaz hops (15 min charge), and the kettle corn sugar, stirring to dissolve.
+5. At flameout, add the 0-minute Saaz addition, chill rapidly, and transfer clear wort to a sanitized fermenter. The gravity should be about 1.061.
+6. Pitch the well-aerated wort at ~16°C (60°F) and allow the fermentation to free-rise as high as ~29°C (84°F). If you cannot ramp, pitch and hold around 20°C (68°F).
+7. After 3–4 days, when fermentation slows, dissolve the dosage corn sugar and a pinch of yeast nutrient in hot water held at 71°C (160°F) for 15 minutes. Cool slightly and add to the fermenter.
+8. Once final gravity is reached, rack to secondary and condition 2–3 weeks until clear.
+9. Package. If bottling, prime with corn sugar and use heavy bottles to handle high carbonation. Age cool for at least a few weeks before serving.
 
 ## Source
 
-Inspired by: https://homebrewanswers.com/duvel-clone-recipe/
+Adapted from: https://byo.com/recipes/duvel-clone/
