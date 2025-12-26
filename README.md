@@ -102,6 +102,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Spaghetti alla Carbonara](recipes/savoury-dishes/spaghetti-alla-carbonara.md)
 - [Sweet Potato with Masala-Spiced Baked Beans](recipes/savoury-dishes/sweet-potato-masala-spiced-baked-beans.md)
 - [Torta de Acelga](recipes/savoury-dishes/torta-de-acelga.md)
+- [Ultimate Roast Potatoes](recipes/savoury-dishes/ultimate-roast-potatoes.md)
 - [Unicorn Baked Beans](recipes/savoury-dishes/unicorn-baked-beans.md)
 
 ## Utility & Misc
