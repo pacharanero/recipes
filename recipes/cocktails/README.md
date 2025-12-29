@@ -46,6 +46,7 @@ All cocktails are in individual Markdown files with YAML frontmatter (slug, titl
 - [El Floridita No. 1](el-floridita-no1.md)
 - [El Presidente](el-presidente.md)
 - [Espresso Martini](espresso-martini.md)
+- [Fino Highball](fino-highball.md)
 - [Fish House Punch](fish-house-punch.md)
 - [Fix](fix.md)
 - [French 75](french-75.md)
