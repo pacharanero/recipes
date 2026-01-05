@@ -27,6 +27,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [No-Knead Dutch Oven Bread](recipes/baking-sweets/no-knead-dutch-oven-bread.md)
 - [Oat Biscuits](recipes/baking-sweets/oat-biscuits.md)
 - [Peanut Chocolate Oat Protein Energy Bars](recipes/baking-sweets/peanut-choc-oat-protein-bars.md)
+- [Protein Ice Cream](recipes/baking-sweets/protein-ice-cream.md)
 - [Skillingsbolle](recipes/baking-sweets/skillingsbolle.md)
 - [Sponge Cakes with Olive Oil (Magdalenas)](recipes/baking-sweets/sponge-cakes-with-olive-oil-magdalenas.md)
 
