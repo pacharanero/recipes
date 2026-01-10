@@ -61,6 +61,11 @@ plugins:
   - search
   - tags:
       tags_file: tags.md
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-committers:
+      repository: pacharanero/recipes
+      branch: main
 
 extra:
   generator: false
