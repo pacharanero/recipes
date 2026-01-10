@@ -21,4 +21,4 @@
 
 ## Source
 
-Adapted from: https://www.foodiewithfamily.com/icelandic-yogurt/
+Adapted from: <https://www.foodiewithfamily.com/icelandic-yogurt/>

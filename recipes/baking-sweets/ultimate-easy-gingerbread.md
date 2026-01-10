@@ -31,4 +31,4 @@ category: Baking & Sweets
 
 ## Source
 
-Source: https://www.bbcgoodfood.com/recipes/ultimate-easy-gingerbread
+Source: <https://www.bbcgoodfood.com/recipes/ultimate-easy-gingerbread>

@@ -75,4 +75,4 @@
 
 ## Source
 
-Adapted from: https://www.jamieoliver.com/recipes/vegetable-recipes/easy-homemade-curry-pastes/
+Adapted from: <https://www.jamieoliver.com/recipes/vegetable-recipes/easy-homemade-curry-pastes/>

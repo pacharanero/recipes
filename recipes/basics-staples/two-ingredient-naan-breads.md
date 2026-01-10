@@ -22,5 +22,4 @@ Makes 4 naan breads/flatbreads
 4. Heat a large, dry, nonstick frying pan over high heat and cook the breads in batches for 2-3 minutes per side, until lightly golden and puffed.
 
 ## Source
-Adapted from:
-https://www.weightwatchers.com/uk/recipe/2-ingredient-flatbread/5cd1935967a547001c4edd30
+Adapted from: <https://www.weightwatchers.com/uk/recipe/2-ingredient-flatbread/5cd1935967a547001c4edd30>

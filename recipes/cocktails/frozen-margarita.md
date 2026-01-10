@@ -24,5 +24,4 @@ category: Drinks
 
 ## Source
 
-Adapted from:
-https://www.bbcgoodfood.com/recipes/frozen-margarita
+Adapted from: <https://www.bbcgoodfood.com/recipes/frozen-margarita>

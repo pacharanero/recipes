@@ -28,4 +28,4 @@
 
 ## Source
 
-Inspired by: https://www.weightwatchers.com/uk/recipe/sweet-potato-spicy-baked-beans/5ce7e6c4fdfe8c0016257daf
+Inspired by: <https://www.weightwatchers.com/uk/recipe/sweet-potato-spicy-baked-beans/5ce7e6c4fdfe8c0016257daf>

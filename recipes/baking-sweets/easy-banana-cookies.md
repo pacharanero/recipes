@@ -25,4 +25,4 @@ tags: [baking, cookies, fruit, quick]
 
 ## Source
 
-Inspired by: https://www.weightwatchers.com/uk/recipe/easy-banana-cookies/6491afe54cfeac416053071b
+Inspired by: <https://www.weightwatchers.com/uk/recipe/easy-banana-cookies/6491afe54cfeac416053071b>

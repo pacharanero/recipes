@@ -42,4 +42,4 @@ category: Baking & Sweets
 
 ## Source
 
-Source: https://www.eatingbirdfood.com/protein-ice-cream/
+Source: <https://www.eatingbirdfood.com/protein-ice-cream/>

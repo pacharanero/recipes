@@ -1,7 +1,16 @@
 ---
 slug: duvel-belgian-golden-strong-ale
 title: Duvel (Belgian Golden Strong Ale Clone)
-tags: [brewing, beer, belgian, golden-strong, high-gravity, all-grain, bottle-condition]
+tags:
+  [
+    brewing,
+    beer,
+    belgian,
+    golden-strong,
+    high-gravity,
+    all-grain,
+    bottle-condition,
+  ]
 category: Brewing
 source_type: adapted
 ---
@@ -38,4 +47,4 @@ _Targets for 19 L (5 gal): OG 1.061, FG 1.007, ABV ~8.5%, IBU ~30, SRM ~3._
 
 ## Source
 
-Adapted from: https://byo.com/recipes/duvel-clone/
+Adapted from: <https://byo.com/recipes/duvel-clone/>

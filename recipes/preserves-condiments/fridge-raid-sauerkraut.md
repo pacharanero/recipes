@@ -27,4 +27,4 @@ category: Preserves & Condiments
 
 ## Source
 
-- https://www.theguardian.com/food/2026/jan/07/how-to-turn-excess-hard-veg-into-fridge-raid-kraut-recipe-zero-waste-cooking
+- <https://www.theguardian.com/food/2026/jan/07/how-to-turn-excess-hard-veg-into-fridge-raid-kraut-recipe-zero-waste-cooking>

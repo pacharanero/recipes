@@ -23,4 +23,4 @@
 
 ## Source
 
-Adapted from: https://www.themaltmiller.co.uk/product/ne-ipa-jon-finch-recipe/
+Adapted from: <https://www.themaltmiller.co.uk/product/ne-ipa-jon-finch-recipe/>
