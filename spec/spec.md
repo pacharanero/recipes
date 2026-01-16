@@ -60,7 +60,7 @@ To ensure consistency when converting recipes to Markdown, follow these persiste
 ## Source Attribution (Web-Derived Recipes)
 
 - If a recipe is adapted or transcribed from a publicly available webpage, append a `## Source` section at the end of the file.
-- Use one bare URL on a single line (no markdown link) prefixed by one of: `Source:`, `Adapted from:`, or `Inspired by:` depending on the level of change.
+- Use a markdown link prefixed by one of: `Source:`, `Adapted from:`, or `Inspired by:` depending on the level of change.
 - Do not include tracking parameters if avoidable; keep the canonical URL only.
 - Omit the section entirely for original or fully self-authored recipes.
 
