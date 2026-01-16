@@ -40,4 +40,4 @@ category: Brewing
 
 ## Source
 
-Source: https://github.com/wearespindle/beer-recipes/blob/master/503.md
+Source: <https://github.com/wearespindle/beer-recipes/blob/master/503.md>
