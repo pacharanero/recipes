@@ -37,9 +37,8 @@ To ensure consistency when converting recipes to Markdown, follow these persiste
 
 ## File Naming and location
 
-- Save each recipe in the root of the repository
+- Save each recipe in the `recipes/<category-folder>/` directory that matches its README section.
 - Save each recipe as a Markdown file with a slugified name (lowercase, hyphens for spaces, no special characters).
-- Once converted and reformatted to the final version the files should be moved to the root directory of the repository.
 
 ## Update the README.md which serves as an index of all recipes.
 
