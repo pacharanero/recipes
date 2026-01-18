@@ -63,6 +63,12 @@ To ensure consistency when converting recipes to Markdown, follow these persiste
 - Do not include tracking parameters if avoidable; keep the canonical URL only.
 - Omit the section entirely for original or fully self-authored recipes.
 
+## Local Testing
+
+- Local developer testing of the site is achieved using Docker and Docker Compose, using the included Dockerfile and docker-compose.yml.
+- Convenience scripts are provided in the `s/` folder for common tasks like starting the docker-compose environment.
+- Don't create local Virtualenvs or install packages globally on the host system, instead always use the Docker environment for consistency.
+
 ## Website creation
 
 - The content here will be published to the web as a GitHub Pages site using a static site generator
