@@ -1,3 +1,10 @@
+---
+slug: sweet-potato-masala-spiced-baked-beans
+title: Sweet Potato with Masala-Spiced Baked Beans
+tags: [ww, vegetarian, sweet-potato, beans, curry]
+category: Savoury Dishes
+---
+
 # Sweet Potato with Masala-Spiced Baked Beans
 
 ## Ingredients
@@ -29,3 +36,4 @@
 ## Source
 
 Inspired by: <https://www.weightwatchers.com/uk/recipe/sweet-potato-spicy-baked-beans/5ce7e6c4fdfe8c0016257daf>
+
