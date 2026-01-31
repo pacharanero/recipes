@@ -18,6 +18,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Digestive Biscuits](recipes/baking-sweets/digestive-biscuits.md)
 - [Easy Banana Cookies](recipes/baking-sweets/easy-banana-cookies.md)
 - [Eliza Acton's Christmas Pudding (1845)](recipes/baking-sweets/eliza-actons-christmas-pudding-from-1845.md)
+- [Flapjack](recipes/baking-sweets/flapjack.md)
 - [Granola Bars](recipes/baking-sweets/granola-bars.md)
 - [Ultimate Easy Gingerbread](recipes/baking-sweets/ultimate-easy-gingerbread.md)
 - [Jijona Turrón (Turron de Jijona)](recipes/baking-sweets/jijonas-turron-turron-de-jijona.md)
