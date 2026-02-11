@@ -20,6 +20,12 @@ To ensure consistency when converting recipes to Markdown, follow these persiste
 - Only include essential steps for making the recipe. Omit tips, serving suggestions, and non-essential commentary.
 - If non-metric units are used, add a conversion to metric in parentheses after the original unit.
 
+## Photography
+
+- If there is a single best photo representing the recipe, include it below the Instructions section.
+- It should be centred, and approx 50% of the width of the page. Multiple photos can be used, they should be gridded or in a carousel.
+- Photos should be renamed to the same filename as the recipe's markdown file and stored in `recipes/photos/`.
+
 ## Language and Spelling
 
 - Use British English spellings eg. sanit*ise* not sanit*ize*.
