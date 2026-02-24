@@ -10,6 +10,7 @@ All cocktails are in individual Markdown files with YAML frontmatter (slug, titl
 - [Apple Blossom](apple-blossom.md)
 - [Aviation](aviation.md)
 - [Bacardi Cocktail](bacardi-cocktail.md)
+- [Cucumber, Elderflower and Cranberry Cooler Mocktail](cucumber-elderflower-and-cranberry-cooler-mocktail.md)
 - [Bellini](bellini.md)
 - [Benton's Old Fashioned](bentons-old-fashioned.md)
 - [Between the Sheets](between-the-sheets.md)
