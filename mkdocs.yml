@@ -4,17 +4,19 @@ site_url: https://pacharanero.github.io/recipes/
 repo_url: https://github.com/pacharanero/recipes
 repo_name: pacharanero/recipes
 edit_uri: edit/main/recipes/
+copyright: Marcus Baw 2026 - CC-BY-SA
 
 docs_dir: recipes
 
 theme:
   name: material
+  variant: classic
   language: en
   logo: assets/recipe-website-logo-white.svg
   favicon: assets/recipe-website-logo-white.svg
   features:
-    - content.action.edit # explicitly adds edit button (Material4MkDocs9.0)
-    - content.action.view # explicitly adds view button (Material4MkDocs9.0)
+    - content.action.edit # explicitly adds edit button (Zensical Material theme)
+    - content.action.view # explicitly adds view button (Zensical Material theme)
     - content.code.copy
     - content.code.select
     - content.code.annotate

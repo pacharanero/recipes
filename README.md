@@ -8,7 +8,7 @@ See the dedicated [Cocktails Index](recipes/cocktails/README.md) for all mixed d
 
 ---
 
-All recipe markdown files now live in category subfolders under `recipes/` to enable automatic navigation (Material for MkDocs). Links reflect the new paths.
+All recipe markdown files now live in category subfolders under `recipes/` to enable automatic navigation (Zensical). Links reflect the new paths.
 
 ## Baking & Sweets
 

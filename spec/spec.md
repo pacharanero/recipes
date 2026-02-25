@@ -78,7 +78,7 @@ To ensure consistency when converting recipes to Markdown, follow these persiste
 ## Website creation
 
 - The content here will be published to the web as a GitHub Pages site using a static site generator
-- The static site generator to use is Mintlify
+- The static site generator to use is Zensical
 - Publication should be automatic using an appropriate GitHub Action
 
 ## YAML Frontmatter
