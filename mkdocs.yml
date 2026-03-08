@@ -9,7 +9,6 @@ copyright: Marcus Baw 2026 - CC-BY-SA
 docs_dir: recipes
 
 theme:
-  name: material
   variant: classic
   language: en
   logo: assets/recipe-website-logo-white.svg
@@ -63,11 +62,6 @@ plugins:
   - search
   - tags:
       tags_file: tags.md
-  - git-revision-date-localized:
-      enable_creation_date: true
-  - git-committers:
-      repository: pacharanero/recipes
-      branch: main
 
 extra:
   generator: false

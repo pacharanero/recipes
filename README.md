@@ -101,6 +101,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Gazpacho Soup](recipes/savoury-dishes/gazpacho-soup.md)
 - [Greek Style Moussaka](recipes/savoury-dishes/greek-style-moussaka.md)
 - [Croquetas De Jamón](recipes/savoury-dishes/ham-bechamel-croquettes.md)
+- [Saffron, Ham & Cheese Croquetas](recipes/savoury-dishes/saffron-ham-and-cheese-croquetas.md)
 - [Hoisin-glazed Tuna with Asparagus & Rice Noodles](recipes/savoury-dishes/hoisin-glazed-tuna-with-asparagus-and-rice-noodles.md)
 - [Hungarian Beef Goulash](recipes/savoury-dishes/hungarian-beef-goulash.md)
 - [Mexican Beef & Rice Casserole](recipes/savoury-dishes/mexican-beef-and-rice-casserole.md)
