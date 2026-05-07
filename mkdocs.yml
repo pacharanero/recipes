@@ -11,6 +11,7 @@ docs_dir: recipes
 theme:
   variant: classic
   language: en
+  custom_dir: overrides
   logo: assets/recipe-website-logo-white.svg
   favicon: assets/recipe-website-logo-white.svg
   features:
