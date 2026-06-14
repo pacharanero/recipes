@@ -14,12 +14,15 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 
 - [Bagels](recipes/baking-sweets/bagels.md)
 - [Butter Toffee (without thermometer)](recipes/baking-sweets/butter-toffee.md)
+- [Chaotic Pantry Flapjacks (Honey & Coconut Oil)](recipes/baking-sweets/chaotic-pantry-flapjacks.md)
 - [Churros](recipes/baking-sweets/churros.md)
 - [Digestive Biscuits](recipes/baking-sweets/digestive-biscuits.md)
+- [DIY Protein Bars (Three Ways)](recipes/baking-sweets/diy-protein-bars.md)
 - [Easy Banana Cookies](recipes/baking-sweets/easy-banana-cookies.md)
 - [Eliza Acton's Christmas Pudding (1845)](recipes/baking-sweets/eliza-actons-christmas-pudding-from-1845.md)
 - [Flapjack](recipes/baking-sweets/flapjack.md)
 - [Granola Bars](recipes/baking-sweets/granola-bars.md)
+- [Healthy Rhubarb Flapjacks](recipes/baking-sweets/healthy-rhubarb-flapjacks.md)
 - [Ultimate Easy Gingerbread](recipes/baking-sweets/ultimate-easy-gingerbread.md)
 - [Jijona Turrón (Turron de Jijona)](recipes/baking-sweets/jijonas-turron-turron-de-jijona.md)
 - [Rich Chocolate Terrine](recipes/baking-sweets/rich-chocolate-terrine.md)
@@ -43,6 +46,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Lime Marmalade](recipes/preserves-condiments/lime-marmalade.md)
 - [Marrow and Ginger Jam](recipes/preserves-condiments/marrow-and-ginger-jam.md)
 - [Membrillo](recipes/preserves-condiments/membrillo.md)
+- [Omnivore-Style Seasoning Salt](recipes/preserves-condiments/omnivore-salt.md)
 - [Pickle (Mixed)](recipes/preserves-condiments/pickle.md)
 - [Quince Jam](recipes/preserves-condiments/quince-jam.md)
 - [Salad Cream Recipes](recipes/preserves-condiments/salad-cream-recipes.md)
@@ -57,6 +61,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Basic Vegan Nut Roast](recipes/basics-staples/basic-vegan-nut-roast.md)
 - [Chapatis - Flatbreads - Tortillas](recipes/basics-staples/chapatis-flatbreads.md)
 - [Curry Pastes (Korma, Jalfrezi, Rogan Josh, Tikka Masala, Vindaloo)](recipes/basics-staples/curry-pastes.md)
+- [Dumplings](recipes/basics-staples/dumplings.md)
 - [Fresh Pasta (Base + Variations)](recipes/basics-staples/fresh-pasta.md)
 - [Homemade Tofu](recipes/basics-staples/homemade-tofu.md)
 - [Icelandic Yogurt (Skyr)](recipes/basics-staples/icelandic-yogurt-skyr.md)
@@ -67,6 +72,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 ## Brewing / Fermented Drinks
 
 - [Adelscott Malt Liquor (Clone)](recipes/brewing-ferments/adelscott-malt-liquor.md)
+- [All-Citra Pale Ale (Extract)](recipes/brewing-ferments/all-citra-pale-ale.md)
 - [Blanche de Chambly (Witbier Clone)](recipes/brewing-ferments/blanche-de-chambly-witbier.md)
 - [Chimay Cinq Cents (Tripel Clone)](recipes/brewing-ferments/chimay-cinq-cents-tripel.md)
  - [Duvel (Belgian Golden Strong Ale Clone)](recipes/brewing-ferments/duvel-belgian-golden-strong-ale.md)
@@ -142,6 +148,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 
 - [Bean Soaking & Pressure Cooking Guide](recipes/guides/bean-soaking-pressure-cooking-guide.md)
 - [Food, Living Outside, Play & Technology Workshop](recipes/guides/food-living-outside-play-technology-workshop.md)
+- [Popcorn Perfection (Minimal Oil)](recipes/utility-misc/popcorn-perfection-guide.md)
 
 ---
 
