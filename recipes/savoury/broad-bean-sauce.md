@@ -1,3 +1,10 @@
+---
+slug: broad-bean-sauce
+title: Broad Bean Sauce
+tags: [broad-beans, sauce, vegetarian]
+category: Savoury Dishes
+---
+
 # Broad Bean Sauce
 
 ## Ingredients

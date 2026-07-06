@@ -1,3 +1,19 @@
+# Source conversion scratch space
 unconverted/
 text-versions/
+
+# Generated site and local caches
 site/
+.cache/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local environment files
+.env
+.env.local
+*.env
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

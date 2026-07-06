@@ -1,3 +1,10 @@
+---
+slug: cocktails
+title: Cocktails Index
+tags: [cocktails, drinks, index]
+category: Drinks
+---
+
 # Cocktails Index
 
 All cocktails are in individual Markdown files with YAML frontmatter (slug, title, tags, category: Drinks) and consistent sections (Ingredients, Instructions, Garnish). This index lists them alphabetically.

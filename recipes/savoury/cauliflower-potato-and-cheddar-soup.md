@@ -1,3 +1,10 @@
+---
+slug: cauliflower-potato-and-cheddar-soup
+title: Cauliflower, Potato & Cheddar Soup
+tags: [soup, cauliflower, potato, cheddar]
+category: Savoury Dishes
+---
+
 # Cauliflower, Potato & Cheddar Soup
 
 ## Ingredients

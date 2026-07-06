@@ -1,3 +1,10 @@
+---
+slug: calentita
+title: Calentita (Chickpea Flour Bake)
+tags: [chickpea, bake, vegetarian, gibraltar]
+category: Savoury Dishes
+---
+
 # Calentita (Chickpea Flour Bake)
 
 ## Ingredients

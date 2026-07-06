@@ -1,10 +1,6 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -euo pipefail
 
-set -v  # Enable verbose mode
-set -e  # Exit on error
+cd "$(git rev-parse --show-toplevel)"
 
-# scripts may need to be made executable on some platforms before they can be run
-# chmod +x <filename> is the command to do this on unixy systems
-
-# shuts down the Docker Compose setup but does not destroy containers or images
-docker compose down
+docker compose down "$@"

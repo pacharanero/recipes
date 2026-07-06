@@ -1,3 +1,10 @@
+---
+slug: icelandic-yogurt-skyr
+title: Icelandic Skyr Yogurt
+tags: [skyr, yogurt, fermentation, dairy]
+category: Utility & Misc
+---
+
 # Icelandic Skyr Yogurt
 
 ## Ingredients

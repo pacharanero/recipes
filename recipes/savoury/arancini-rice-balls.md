@@ -1,3 +1,10 @@
+---
+slug: arancini-rice-balls
+title: Arancini (Stuffed Rice Balls)
+tags: [rice, cheese, air-fryer, italian]
+category: Savoury Dishes
+---
+
 # Arancini (Stuffed Rice Balls)
 
 ## Ingredients

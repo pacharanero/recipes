@@ -1,3 +1,10 @@
+---
+slug: cocktails-reference
+title: The Cocktails
+tags: [cocktails, drinks, reference]
+category: Drinks
+---
+
 # The Cocktails
 
 ### Example

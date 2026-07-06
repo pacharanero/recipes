@@ -1,3 +1,10 @@
+---
+slug: apple-chutney
+title: Apple Chutney
+tags: [chutney, apple, preserve, condiment]
+category: Preserves & Condiments
+---
+
 # Apple Chutney
 
 ## Ingredients

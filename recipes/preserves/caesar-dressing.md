@@ -1,3 +1,10 @@
+---
+slug: caesar-dressing
+title: Caesar Dressing
+tags: [dressing, salad, anchovy, parmesan]
+category: Preserves & Condiments
+---
+
 # Caesar Dressing
 
 ## Ingredients

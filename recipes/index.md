@@ -8,12 +8,13 @@ Welcome to my personal collection of cooking, brewing, preserving and DIY utilit
 
 ## Structure
 
-- [Baking & Sweets](baking-sweets/bagels.md)
-- [Preserves & Condiments](preserves-condiments/apple-chutney.md)
-- [Basics & Staples](basics-staples/two-ingredient-naan-breads.md)
-- [Brewing & Ferments](brewing-ferments/adelscott-malt-liquor.md)
-- [Savoury Dishes](savoury-dishes/arancini-rice-balls.md)
-- [Utility & Misc](utility-misc/bean-soaking-pressure-cooking-guide.md)
+- [Baking](baking/bagels.md)
+- [Preserves](preserves/apple-chutney.md)
+- [Basics](basics/two-ingredient-naan-breads.md)
+- [Brewing](brewing/adelscott-malt-liquor.md)
+- [Savoury](savoury/arancini-rice-balls.md)
+- [Misc](misc/bean-soaking-pressure-cooking-guide.md)
+- [Guides](guides/cooking-eggs-in-an-air-fryer.md)
 - [Cocktails](cocktails/README.md) (see the dedicated cocktails index)
 
 ## Conventions

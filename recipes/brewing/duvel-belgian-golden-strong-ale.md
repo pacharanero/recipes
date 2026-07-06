@@ -1,16 +1,7 @@
 ---
 slug: duvel-belgian-golden-strong-ale
 title: Duvel (Belgian Golden Strong Ale Clone)
-tags:
-  [
-    brewing,
-    beer,
-    belgian,
-    golden-strong,
-    high-gravity,
-    all-grain,
-    bottle-condition,
-  ]
+tags: [brewing, beer, belgian, golden-strong, high-gravity, all-grain, bottle-condition]
 category: Brewing
 source_type: adapted
 ---

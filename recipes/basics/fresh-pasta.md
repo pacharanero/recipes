@@ -1,3 +1,10 @@
+---
+slug: fresh-pasta
+title: Fresh Pasta (Base + Variations)
+tags: [pasta, basics, eggs, italian]
+category: Basics & Staples
+---
+
 # Fresh Pasta (Base + Variations)
 
 ## Ingredients (Base Dough)

@@ -1,3 +1,10 @@
+---
+slug: ne-ipa-jon-finch
+title: NE IPA (Jon Finch Adaptation)
+tags: [beer, brewing, ipa, hops]
+category: Brewing
+---
+
 # NE IPA (Jon Finch Adaptation)
 
 ## Ingredients
