@@ -6,6 +6,7 @@ text-versions/
 site/
 .cache/
 .mkdocs_cache/
+.playwright-mcp/
 build/
 dist/
 

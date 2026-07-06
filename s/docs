@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd "$(git rev-parse --show-toplevel)"
+
+port="${ZENSICAL_PORT:-8008}"
+url="http://localhost:${port}"
+
+printf 'Starting Zensical preview at %s\n' "${url}"
+printf 'Stop it with: s/down\n'
+
+docker compose up --build -d
+
+if command -v xdg-open >/dev/null 2>&1; then
+  xdg-open "${url}" >/dev/null 2>&1 &
+elif command -v open >/dev/null 2>&1; then
+  open "${url}" >/dev/null 2>&1 &
+else
+  printf 'Open %s in your browser.\n' "${url}"
+fi

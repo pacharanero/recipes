@@ -1,0 +1,15 @@
+.git
+.github
+.cache
+.venv
+.playwright-mcp
+site
+unconverted
+text-versions
+.env
+.env.local
+*.env
+.DS_Store
+Thumbs.db
+__pycache__
+*.py[cod]

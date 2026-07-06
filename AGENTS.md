@@ -4,6 +4,15 @@
 
 This repository is a Markdown-driven recipe book built with Zensical and published to GitHub Pages.
 
+## Read First
+
+Before changing recipes, site structure, or build configuration, check:
+
+- `README.md` for the repository overview and top-level recipe index.
+- `recipes/index.md` for the published site landing page.
+- `spec/README.md` and `spec/spec.md` for recipe conversion rules, categories, frontmatter, source attribution, and local testing expectations.
+- `mkdocs.yml` for Zensical site configuration and navigation.
+
 ## Recipe Editing
 
 - Put recipes under the matching `recipes/<category-folder>/` directory.
@@ -17,10 +26,13 @@ This repository is a Markdown-driven recipe book built with Zensical and publish
 ## Build And Test
 
 - Do not create local virtualenvs or install packages globally for this project.
-- Use the Docker setup for local site testing:
-  - `s/up`
-  - `s/down`
-- The production site build command is `zensical build --clean`.
+- Docker Compose is the intentional local preview path for this repo.
+- Use the script wrappers:
+  - `s/docs` starts the local Zensical preview.
+  - `s/up` is a compatibility alias for `s/docs`.
+  - `s/down` stops the preview containers.
+  - `s/check-recipes` runs the content policy check.
+- The production site build command is `zensical build --clean`; for local validation, run it through Docker: `docker compose run --rm zensical zensical build --clean`.
 
 ## GitHub Actions
 
@@ -30,5 +42,5 @@ This repository is a Markdown-driven recipe book built with Zensical and publish
 
 ## Generated Files
 
-- Do not commit local build output, caches, virtualenvs, editor state, or secrets.
+- Do not commit local build output, caches, virtualenvs, editor state, Playwright MCP artefacts, or secrets.
 - The root `.gitignore` is the source of truth for local generated files.
