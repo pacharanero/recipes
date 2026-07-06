@@ -1,0 +1,78 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd "$(git rev-parse --show-toplevel)"
+
+python3 - <<'PY'
+from pathlib import Path
+import re
+import sys
+
+content_root = Path("recipes")
+allowed_categories = {
+    "Baking & Sweets",
+    "Preserves & Condiments",
+    "Basics & Staples",
+    "Brewing",
+    "Savoury Dishes",
+    "Utility & Misc",
+    "Guides",
+    "Drinks",
+}
+required_keys = {"slug", "title", "tags", "category"}
+skip_paths = {
+    content_root / "index.md",
+    content_root / "tags.md",
+}
+slug_filename = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*\.md$")
+errors: list[str] = []
+
+for path in sorted(content_root.rglob("*.md")):
+    if path in skip_paths:
+        continue
+
+    if path.name != "README.md" and not slug_filename.fullmatch(path.name):
+        errors.append(f"{path}: filename must be slug-case")
+
+    text = path.read_text(encoding="utf-8")
+    lines = text.splitlines()
+    if not lines or lines[0] != "---":
+        errors.append(f"{path}: missing opening YAML frontmatter delimiter")
+        continue
+
+    try:
+        end = lines[1:].index("---") + 1
+    except ValueError:
+        errors.append(f"{path}: missing closing YAML frontmatter delimiter")
+        continue
+
+    frontmatter_lines = lines[1:end]
+    keys: dict[str, str] = {}
+    for line in frontmatter_lines:
+        if not line.strip() or line.startswith(" "):
+            continue
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        keys[key.strip()] = value.strip()
+
+    missing = sorted(required_keys - set(keys))
+    if missing:
+        errors.append(f"{path}: missing frontmatter keys: {', '.join(missing)}")
+
+    category = keys.get("category")
+    if category and category not in allowed_categories:
+        errors.append(f"{path}: invalid category {category!r}")
+
+    tags = keys.get("tags")
+    if tags is not None and not tags.startswith("["):
+        errors.append(f"{path}: tags must use inline list form, e.g. [bread, baking]")
+
+if errors:
+    print("Recipe policy check failed:\n")
+    for error in errors:
+        print(f"- {error}")
+    sys.exit(1)
+
+print("Recipe policy check passed.")
+PY

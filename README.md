@@ -42,6 +42,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Low-Fat Salad Cream made with Skyr](recipes/preserves/salad-cream-skyr.md)
 - [Caesar Dressing](recipes/preserves/caesar-dressing.md)
 - [Chilli Jam](recipes/preserves/chilli-jam.md)
+- [Classic Pesto](recipes/preserves/classic-pesto.md)
 - [Indian Lime Pickle](recipes/preserves/indian-lime-pickle.md)
 - [Lime Marmalade](recipes/preserves/lime-marmalade.md)
 - [Marrow and Ginger Jam](recipes/preserves/marrow-and-ginger-jam.md)

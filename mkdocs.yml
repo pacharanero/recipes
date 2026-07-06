@@ -73,241 +73,242 @@ extra:
 
 nav:
   - Baking:
-    - Bagels: baking/bagels.md
-    - Butter Toffee (without thermometer): baking/butter-toffee.md
-    - Chaotic Pantry Flapjacks (Honey & Coconut Oil): baking/chaotic-pantry-flapjacks.md
-    - Churros: baking/churros.md
-    - Digestive Biscuits: baking/digestive-biscuits.md
-    - DIY Protein Bars (Three Ways): baking/diy-protein-bars.md
-    - Easy Banana Cookies: baking/easy-banana-cookies.md
-    - Eliza Acton’s Christmas Pudding (1845): baking/eliza-actons-christmas-pudding-from-1845.md
-    - Flapjack: baking/flapjack.md
-    - Granola Bars: baking/granola-bars.md
-    - Healthy Rhubarb Flapjacks: baking/healthy-rhubarb-flapjacks.md
-    - Jijona Turrón (Soft Nougat): baking/jijonas-turron-turron-de-jijona.md
-    - No-Knead Baguettes: baking/no-knead-baguettes.md
-    - No-Knead Dutch Oven Bread: baking/no-knead-dutch-oven-bread.md
-    - Oat Biscuits: baking/oat-biscuits.md
-    - Peanut Chocolate Oat Protein Energy Bars: baking/peanut-choc-oat-protein-bars.md
-    - Protein Ice Cream: baking/protein-ice-cream.md
-    - Chocolate Terrine: baking/rich-chocolate-terrine.md
-    - Sponge Cakes with Olive Oil (Magdalenas): baking/sponge-cakes-with-olive-oil-magdalenas.md
-    - Ultimate Easy Gingerbread: baking/ultimate-easy-gingerbread.md
+      - Bagels: baking/bagels.md
+      - Butter Toffee (without thermometer): baking/butter-toffee.md
+      - Chaotic Pantry Flapjacks (Honey & Coconut Oil): baking/chaotic-pantry-flapjacks.md
+      - Churros: baking/churros.md
+      - Digestive Biscuits: baking/digestive-biscuits.md
+      - DIY Protein Bars (Three Ways): baking/diy-protein-bars.md
+      - Easy Banana Cookies: baking/easy-banana-cookies.md
+      - Eliza Acton’s Christmas Pudding (1845): baking/eliza-actons-christmas-pudding-from-1845.md
+      - Flapjack: baking/flapjack.md
+      - Granola Bars: baking/granola-bars.md
+      - Healthy Rhubarb Flapjacks: baking/healthy-rhubarb-flapjacks.md
+      - Jijona Turrón (Soft Nougat): baking/jijonas-turron-turron-de-jijona.md
+      - No-Knead Baguettes: baking/no-knead-baguettes.md
+      - No-Knead Dutch Oven Bread: baking/no-knead-dutch-oven-bread.md
+      - Oat Biscuits: baking/oat-biscuits.md
+      - Peanut Chocolate Oat Protein Energy Bars: baking/peanut-choc-oat-protein-bars.md
+      - Protein Ice Cream: baking/protein-ice-cream.md
+      - Chocolate Terrine: baking/rich-chocolate-terrine.md
+      - Sponge Cakes with Olive Oil (Magdalenas): baking/sponge-cakes-with-olive-oil-magdalenas.md
+      - Ultimate Easy Gingerbread: baking/ultimate-easy-gingerbread.md
   - Basics:
-    - Chapatis - Flatbreads - Tortillas: basics/chapatis-flatbreads.md
-    - Dumplings: basics/dumplings.md
-    - Fresh Pasta (Base + Variations): basics/fresh-pasta.md
-    - Homemade Tofu: basics/homemade-tofu.md
-    - Olive Oil Béchamel Sauce: basics/olive-oil-bechamel-sauce.md
-    - 2-Ingredient Naan Breads: basics/two-ingredient-naan-breads.md
+      - Chapatis - Flatbreads - Tortillas: basics/chapatis-flatbreads.md
+      - Dumplings: basics/dumplings.md
+      - Fresh Pasta (Base + Variations): basics/fresh-pasta.md
+      - Homemade Tofu: basics/homemade-tofu.md
+      - Olive Oil Béchamel Sauce: basics/olive-oil-bechamel-sauce.md
+      - 2-Ingredient Naan Breads: basics/two-ingredient-naan-breads.md
   - Brewing:
-    - Adelscott Malt Liquor (Clone): brewing/adelscott-malt-liquor.md
-    - All-Citra Pale Ale (Extract): brewing/all-citra-pale-ale.md
-    - Blanche de Chambly (Witbier Clone): brewing/blanche-de-chambly-witbier.md
-    - Chimay Cinq Cents (Tripel Clone): brewing/chimay-cinq-cents-tripel.md
-    - Duvel (Belgian Golden Strong Ale Clone): brewing/duvel-belgian-golden-strong-ale.md
-    - Elderberry Wine: brewing/elderberry-wine.md
-    - Elderflower Champagne (Sparkling Cordial): brewing/elderflower-champagne.md
-    - Ginger Beer (Quick Fermented): brewing/ginger-beer.md
-    - Hoegaarden Wit (Clone): brewing/hoegaarden-clone.md
-    - How to Make Your Own Gin (Infused): brewing/how-to-make-your-own-gin.md
-    - NE IPA (Jon Finch Adaptation): brewing/ne-ipa-jon-finch.md
-    - Nettle, Dandelion and Burdock Beer: brewing/nettle-dandelion-and-burdock-beer.md
-    - 'Spindle Brew #1 - 503': brewing/spindle-brew-1-503.md
+      - Adelscott Malt Liquor (Clone): brewing/adelscott-malt-liquor.md
+      - All-Citra Pale Ale (Extract): brewing/all-citra-pale-ale.md
+      - Blanche de Chambly (Witbier Clone): brewing/blanche-de-chambly-witbier.md
+      - Chimay Cinq Cents (Tripel Clone): brewing/chimay-cinq-cents-tripel.md
+      - Duvel (Belgian Golden Strong Ale Clone): brewing/duvel-belgian-golden-strong-ale.md
+      - Elderberry Wine: brewing/elderberry-wine.md
+      - Elderflower Champagne (Sparkling Cordial): brewing/elderflower-champagne.md
+      - Ginger Beer (Quick Fermented): brewing/ginger-beer.md
+      - Hoegaarden Wit (Clone): brewing/hoegaarden-clone.md
+      - How to Make Your Own Gin (Infused): brewing/how-to-make-your-own-gin.md
+      - NE IPA (Jon Finch Adaptation): brewing/ne-ipa-jon-finch.md
+      - Nettle, Dandelion and Burdock Beer: brewing/nettle-dandelion-and-burdock-beer.md
+      - "Spindle Brew #1 - 503": brewing/spindle-brew-1-503.md
   - Cocktails:
-    - Amaretto Sour: cocktails/amaretto-sour.md
-    - Americano: cocktails/americano.md
-    - Aperol Spritz: cocktails/aperol-spritz.md
-    - Apple Blossom Cocktail: cocktails/apple-blossom.md
-    - Aviation: cocktails/aviation.md
-    - Bacardi Cocktail: cocktails/bacardi-cocktail.md
-    - Bellini: cocktails/bellini.md
-    - Benton's Old Fashioned: cocktails/bentons-old-fashioned.md
-    - Between the Sheets: cocktails/between-the-sheets.md
-    - Black Russian: cocktails/black-russian.md
-    - Black Velvet: cocktails/black-velvet.md
-    - Blood and Sand: cocktails/blood-and-sand.md
-    - Bloody Mary: cocktails/bloody-mary.md
-    - Blue Moon: cocktails/blue-moon.md
-    - Bobby Burns: cocktails/bobby-burns.md
-    - Boulevard: cocktails/boulevard.md
-    - Bramble: cocktails/bramble.md
-    - Brandy Alexander: cocktails/brandy-alexander.md
-    - Brandy Flip: cocktails/brandy-flip.md
-    - Breakfast Martini: cocktails/breakfast-martini.md
-    - Bronx: cocktails/bronx.md
-    - Brooklyn: cocktails/brooklyn.md
-    - Caipirinha: cocktails/caipirinha.md
-    - Cape Codder: cocktails/cape-codder.md
-    - Champagne Cocktail: cocktails/champagne-cocktail.md
-    - Champs-Elysées: cocktails/champs-elysees.md
-    - Clover Club: cocktails/clover-club.md
-    - Cobbler: cocktails/cobbler.md
-    - The Cocktails: cocktails/cocktails.md
-    - Corn & Oil: cocktails/corn-and-oil.md
-    - 'Corpse Reviver #2': cocktails/corpse-reviver-2.md
-    - Cosmopolitan: cocktails/cosmopolitan.md
-    - Crusta: cocktails/crusta.md
-    - Cuba Libre: cocktails/cuba-libre.md
-    - Cucumber, Elderflower and Cranberry Cooler Mocktail: cocktails/cucumber-elderflower-and-cranberry-cooler-mocktail.md
-    - Daiquiri: cocktails/daiquiri.md
-    - Daisy: cocktails/daisy.md
-    - Dark n Stormy: cocktails/dark-n-stormy.md
-    - Diplomat: cocktails/diplomat.md
-    - Earl Grey MarTEAni: cocktails/earl-grey-martini.md
-    - East India: cocktails/east-india.md
-    - El Diablo: cocktails/el-diablo.md
-    - El Floridita No. 1: cocktails/el-floridita-no1.md
-    - El Presidente: cocktails/el-presidente.md
-    - Espresso Martini: cocktails/espresso-martini.md
-    - Fino Highball: cocktails/fino-highball.md
-    - Fish House Punch: cocktails/fish-house-punch.md
-    - Fix: cocktails/fix.md
-    - French 75: cocktails/french-75.md
-    - French Connection: cocktails/french-connection.md
-    - French Martini: cocktails/french-martini.md
-    - Frozen Margarita: cocktails/frozen-margarita.md
-    - Gimlet: cocktails/gimlet.md
-    - Gin Cocktail: cocktails/gin-cocktail.md
-    - Gin Gin Mule: cocktails/gin-gin-mule.md
-    - Gin Rickey: cocktails/gin-rickey.md
-    - Godfather: cocktails/godfather.md
-    - Grasshopper: cocktails/grasshopper.md
-    - Hanky-Panky Martini: cocktails/hanky-panky.md
-    - Harvard: cocktails/harvard.md
-    - Hemingway Special: cocktails/hemingway-special.md
-    - Horse's Neck: cocktails/horse-neck.md
-    - Imperial Fizz: cocktails/imperial-fizz.md
-    - Income Tax Cocktail: cocktails/income-tax.md
-    - Irish Coffee: cocktails/irish-coffee.md
-    - Jack Rose: cocktails/jack-rose.md
-    - Japanese Cocktail: cocktails/japanese-cocktail.md
-    - John Collins: cocktails/john-collins.md
-    - Jungle Bird: cocktails/jungle-bird.md
-    - Last Word: cocktails/last-word.md
-    - Lion's Tail: cocktails/lion-s-tail.md
-    - Long Island Iced Tea: cocktails/long-island-iced-tea.md
-    - Mai Tai: cocktails/mai-tai.md
-    - Manhattan (Sweet): cocktails/manhattan.md
-    - Margarita: cocktails/margarita.md
-    - Martini (Dry): cocktails/martini-dry.md
-    - Mojito: cocktails/mojito.md
-    - Moscow Mule: cocktails/moscow-mule.md
-    - Naked & Famous: cocktails/naked-and-famous.md
-    - Negroni: cocktails/negroni.md
-    - New York Sour: cocktails/new-york-sour.md
-    - Old Fashioned: cocktails/old-fashioned.md
-    - Painkiller: cocktails/painkiller.md
-    - Paper Plane: cocktails/paper-plane.md
-    - Piña Colada: cocktails/pina-colada.md
-    - Pisco Sour: cocktails/pisco-sour.md
-    - Ramos Gin Fizz: cocktails/ramos-gin-fizz.md
-    - Red Lion: cocktails/red-lion.md
-    - Rob Roy: cocktails/rob-roy.md
-    - Ron Collins: cocktails/ron-collins.md
-    - Rusty Nail: cocktails/rusty-nail.md
-    - Sazerac: cocktails/sazerac.md
-    - Scofflaw: cocktails/scofflaw.md
-    - Seelbach: cocktails/seelbach.md
-    - Sherry Cobbler: cocktails/sherry-cobbler.md
-    - Sherry Flip: cocktails/sherry-flip.md
-    - Singapore Sling: cocktails/singapore-sling.md
-    - Sloe Gin Fizz: cocktails/sloe-gin-fizz.md
-    - Stinger: cocktails/stinger.md
-    - Tom Collins: cocktails/tom-collins.md
-    - Toronto: cocktails/toronto.md
-    - Vesper: cocktails/vesper.md
-    - Vieux Carré: cocktails/vieux-carre.md
-    - Ward Eight: cocktails/ward-eight.md
-    - White Lady: cocktails/white-lady.md
-    - White Russian: cocktails/white-russian.md
-    - Zombie: cocktails/zombie.md
-    - Cocktails Index: cocktails/README.md
+      - Amaretto Sour: cocktails/amaretto-sour.md
+      - Americano: cocktails/americano.md
+      - Aperol Spritz: cocktails/aperol-spritz.md
+      - Apple Blossom Cocktail: cocktails/apple-blossom.md
+      - Aviation: cocktails/aviation.md
+      - Bacardi Cocktail: cocktails/bacardi-cocktail.md
+      - Bellini: cocktails/bellini.md
+      - Benton's Old Fashioned: cocktails/bentons-old-fashioned.md
+      - Between the Sheets: cocktails/between-the-sheets.md
+      - Black Russian: cocktails/black-russian.md
+      - Black Velvet: cocktails/black-velvet.md
+      - Blood and Sand: cocktails/blood-and-sand.md
+      - Bloody Mary: cocktails/bloody-mary.md
+      - Blue Moon: cocktails/blue-moon.md
+      - Bobby Burns: cocktails/bobby-burns.md
+      - Boulevard: cocktails/boulevard.md
+      - Bramble: cocktails/bramble.md
+      - Brandy Alexander: cocktails/brandy-alexander.md
+      - Brandy Flip: cocktails/brandy-flip.md
+      - Breakfast Martini: cocktails/breakfast-martini.md
+      - Bronx: cocktails/bronx.md
+      - Brooklyn: cocktails/brooklyn.md
+      - Caipirinha: cocktails/caipirinha.md
+      - Cape Codder: cocktails/cape-codder.md
+      - Champagne Cocktail: cocktails/champagne-cocktail.md
+      - Champs-Elysées: cocktails/champs-elysees.md
+      - Clover Club: cocktails/clover-club.md
+      - Cobbler: cocktails/cobbler.md
+      - The Cocktails: cocktails/cocktails.md
+      - Corn & Oil: cocktails/corn-and-oil.md
+      - "Corpse Reviver #2": cocktails/corpse-reviver-2.md
+      - Cosmopolitan: cocktails/cosmopolitan.md
+      - Crusta: cocktails/crusta.md
+      - Cuba Libre: cocktails/cuba-libre.md
+      - Cucumber, Elderflower and Cranberry Cooler Mocktail: cocktails/cucumber-elderflower-and-cranberry-cooler-mocktail.md
+      - Daiquiri: cocktails/daiquiri.md
+      - Daisy: cocktails/daisy.md
+      - Dark n Stormy: cocktails/dark-n-stormy.md
+      - Diplomat: cocktails/diplomat.md
+      - Earl Grey MarTEAni: cocktails/earl-grey-martini.md
+      - East India: cocktails/east-india.md
+      - El Diablo: cocktails/el-diablo.md
+      - El Floridita No. 1: cocktails/el-floridita-no1.md
+      - El Presidente: cocktails/el-presidente.md
+      - Espresso Martini: cocktails/espresso-martini.md
+      - Fino Highball: cocktails/fino-highball.md
+      - Fish House Punch: cocktails/fish-house-punch.md
+      - Fix: cocktails/fix.md
+      - French 75: cocktails/french-75.md
+      - French Connection: cocktails/french-connection.md
+      - French Martini: cocktails/french-martini.md
+      - Frozen Margarita: cocktails/frozen-margarita.md
+      - Gimlet: cocktails/gimlet.md
+      - Gin Cocktail: cocktails/gin-cocktail.md
+      - Gin Gin Mule: cocktails/gin-gin-mule.md
+      - Gin Rickey: cocktails/gin-rickey.md
+      - Godfather: cocktails/godfather.md
+      - Grasshopper: cocktails/grasshopper.md
+      - Hanky-Panky Martini: cocktails/hanky-panky.md
+      - Harvard: cocktails/harvard.md
+      - Hemingway Special: cocktails/hemingway-special.md
+      - Horse's Neck: cocktails/horse-neck.md
+      - Imperial Fizz: cocktails/imperial-fizz.md
+      - Income Tax Cocktail: cocktails/income-tax.md
+      - Irish Coffee: cocktails/irish-coffee.md
+      - Jack Rose: cocktails/jack-rose.md
+      - Japanese Cocktail: cocktails/japanese-cocktail.md
+      - John Collins: cocktails/john-collins.md
+      - Jungle Bird: cocktails/jungle-bird.md
+      - Last Word: cocktails/last-word.md
+      - Lion's Tail: cocktails/lion-s-tail.md
+      - Long Island Iced Tea: cocktails/long-island-iced-tea.md
+      - Mai Tai: cocktails/mai-tai.md
+      - Manhattan (Sweet): cocktails/manhattan.md
+      - Margarita: cocktails/margarita.md
+      - Martini (Dry): cocktails/martini-dry.md
+      - Mojito: cocktails/mojito.md
+      - Moscow Mule: cocktails/moscow-mule.md
+      - Naked & Famous: cocktails/naked-and-famous.md
+      - Negroni: cocktails/negroni.md
+      - New York Sour: cocktails/new-york-sour.md
+      - Old Fashioned: cocktails/old-fashioned.md
+      - Painkiller: cocktails/painkiller.md
+      - Paper Plane: cocktails/paper-plane.md
+      - Piña Colada: cocktails/pina-colada.md
+      - Pisco Sour: cocktails/pisco-sour.md
+      - Ramos Gin Fizz: cocktails/ramos-gin-fizz.md
+      - Red Lion: cocktails/red-lion.md
+      - Rob Roy: cocktails/rob-roy.md
+      - Ron Collins: cocktails/ron-collins.md
+      - Rusty Nail: cocktails/rusty-nail.md
+      - Sazerac: cocktails/sazerac.md
+      - Scofflaw: cocktails/scofflaw.md
+      - Seelbach: cocktails/seelbach.md
+      - Sherry Cobbler: cocktails/sherry-cobbler.md
+      - Sherry Flip: cocktails/sherry-flip.md
+      - Singapore Sling: cocktails/singapore-sling.md
+      - Sloe Gin Fizz: cocktails/sloe-gin-fizz.md
+      - Stinger: cocktails/stinger.md
+      - Tom Collins: cocktails/tom-collins.md
+      - Toronto: cocktails/toronto.md
+      - Vesper: cocktails/vesper.md
+      - Vieux Carré: cocktails/vieux-carre.md
+      - Ward Eight: cocktails/ward-eight.md
+      - White Lady: cocktails/white-lady.md
+      - White Russian: cocktails/white-russian.md
+      - Zombie: cocktails/zombie.md
+      - Cocktails Index: cocktails/README.md
   - Guides:
-    - Cooking Eggs in an Air Fryer: guides/cooking-eggs-in-an-air-fryer.md
+      - Cooking Eggs in an Air Fryer: guides/cooking-eggs-in-an-air-fryer.md
   - Preserves:
-    - Apple Chutney: preserves/apple-chutney.md
-    - Beetroot Relish: preserves/beetroot-relish.md
-    - Caesar Dressing: preserves/caesar-dressing.md
-    - Chilli Jam: preserves/chilli-jam.md
-    - Curry Pastes (Korma, Jalfrezi, Rogan Josh, Tikka Masala, Vindaloo): preserves/curry-pastes.md
-    - Fridge Raid Sauerkraut: preserves/fridge-raid-sauerkraut.md
-    - Indian Lime Pickle: preserves/indian-lime-pickle.md
-    - Lime Marmalade: preserves/lime-marmalade.md
-    - Marrow & Ginger Jam: preserves/marrow-and-ginger-jam.md
-    - Membrillo (Quince Paste): preserves/membrillo.md
-    - Mincemeat (Traditional): preserves/mincemeat.md
-    - Minestrone Soup: preserves/minestrone-soup.md
-    - Omnivore-Style Seasoning Salt: preserves/omnivore-salt.md
-    - Mixed Farm Pickle: preserves/pickle.md
-    - Quince Jam: preserves/quince-jam.md
-    - Salad Cream (Two Methods): preserves/salad-cream-recipes.md
-    - Low-Fat Salad Cream made with Skyr: preserves/salad-cream-skyr.md
-    - Tomato Ketchup (Homemade): preserves/tomato-ketchup.md
-    - Tomato Relish: preserves/tomato-relish.md
-    - Wicked's Wholegrain Mustard: preserves/wholegrain-mustard.md
-    - Worcestershire Sauce (Homemade): preserves/worcestershire-sauce-recipe.md
+      - Apple Chutney: preserves/apple-chutney.md
+      - Beetroot Relish: preserves/beetroot-relish.md
+      - Caesar Dressing: preserves/caesar-dressing.md
+      - Chilli Jam: preserves/chilli-jam.md
+      - Classic Pesto: preserves/classic-pesto.md
+      - Curry Pastes (Korma, Jalfrezi, Rogan Josh, Tikka Masala, Vindaloo): preserves/curry-pastes.md
+      - Fridge Raid Sauerkraut: preserves/fridge-raid-sauerkraut.md
+      - Indian Lime Pickle: preserves/indian-lime-pickle.md
+      - Lime Marmalade: preserves/lime-marmalade.md
+      - Marrow & Ginger Jam: preserves/marrow-and-ginger-jam.md
+      - Membrillo (Quince Paste): preserves/membrillo.md
+      - Mincemeat (Traditional): preserves/mincemeat.md
+      - Minestrone Soup: preserves/minestrone-soup.md
+      - Omnivore-Style Seasoning Salt: preserves/omnivore-salt.md
+      - Mixed Farm Pickle: preserves/pickle.md
+      - Quince Jam: preserves/quince-jam.md
+      - Salad Cream (Two Methods): preserves/salad-cream-recipes.md
+      - Low-Fat Salad Cream made with Skyr: preserves/salad-cream-skyr.md
+      - Tomato Ketchup (Homemade): preserves/tomato-ketchup.md
+      - Tomato Relish: preserves/tomato-relish.md
+      - Wicked's Wholegrain Mustard: preserves/wholegrain-mustard.md
+      - Worcestershire Sauce (Homemade): preserves/worcestershire-sauce-recipe.md
   - Savoury:
-    - Arancini (Stuffed Rice Balls): savoury/arancini-rice-balls.md
-    - Basic Vegan Nut Roast: savoury/basic-vegan-nut-roast.md
-    - Blue Cheese & Gnocchi Bake: savoury/blue-cheese-and-gnocchi-bake.md
-    - Broad Bean Sauce: savoury/broad-bean-sauce.md
-    - Calentita (Chickpea Flour Bake): savoury/calentita.md
-    - Cauliflower & Stilton Soup: savoury/cauliflower-and-stilton-soup.md
-    - Cauliflower, Potato & Cheddar Soup: savoury/cauliflower-potato-and-cheddar-soup.md
-    - Chicken and Barley Stew: savoury/chicken-and-barley-stew.md
-    - Chicken, Broccoli & Tortellini Soup: savoury/chicken-broccoli-and-tortellini-soup.md
-    - Chicken Enchilada: savoury/chicken-enchilada.md
-    - Chilli Con Carne: savoury/chilli-con-carne.md
-    - Chorizo (Dry Cured) – 5 kg Batch: savoury/chorizo.md
-    - Courgette and Arborio Rice Soup: savoury/courgette-and-arborio-rice-soup.md
-    - Creamy Mushroom & Spinach Pasta: savoury/creamy-mushroom-and-spinach-pasta.md
-    - Creamy Spinach-Stuffed Chicken with Courgette: savoury/creamy-spinach-stuffed-chicken-with-courgette.md
-    - Crispy Air-Fryer Onion Bhajis (Minimal Oil): savoury/crispy-air-fryer-onion-bhajis.md
-    - Curry Goat (Serves 5–6): savoury/curry-goat-serves-5-6.md
-    - Dry Cured Sausage (Basic Ratio): savoury/dry-cured-sausage.md
-    - Fat Knackers (Stuffed Steak Rolls): savoury/fat-knackers.md
-    - Gazpacho Soup: savoury/gazpacho-soup.md
-    - Greek Style Moussaka: savoury/greek-style-moussaka.md
-    - Ham Béchamel Croquettes: savoury/ham-bechamel-croquettes.md
-    - Hoisin-glazed Tuna with Asparagus & Rice Noodles: savoury/hoisin-glazed-tuna-with-asparagus-and-rice-noodles.md
-    - Hungarian Beef Goulash: savoury/hungarian-beef-goulash.md
-    - Mexican Beef & Rice Casserole: savoury/mexican-beef-and-rice-casserole.md
-    - Mexican Chicken Bowl: savoury/mexican-chicken-bowl.md
-    - Minestra (Vegetable Bean Soup): savoury/minestra.md
-    - Onion Bhaji: savoury/onion-bhaji.md
-    - Papas a lo Pobre (Slow-Cooked Potatoes): savoury/papas-a-lo-pobre.md
-    - Pasta Bolognese: savoury/pasta-bolognese.md
-    - Pasta with Salmon and Asparagus: savoury/pasta-with-salmon-and-asparagus.md
-    - Patatas a lo Pobre (Andalusian Potatoes): savoury/patatas-a-lo-pobre.md
-    - Picada Catalana (Nut-Herb Paste): savoury/picada-catalana.md
-    - Pork Chops with Creamy Leeks & New Potatoes: savoury/pork-chops-with-creamy-leeks-and-new-potatoes.md
-    - Prawn & Chorizo Paella: savoury/prawn-and-chorizo-paella.md
-    - Pumpkin & Blue Cheese Risotto: savoury/pumpkin-blue-cheese-risotto.md
-    - Quick Chicken Korma: savoury/quick-chicken-korma.md
-    - Roast Salmon with Peas, Potatoes & Chorizo: savoury/roast-salmon-with-peas-potatoes-and-chorizo.md
-    - Roasted Veg in Yoghurt Sauce: savoury/roasted-veg-in-yoghurt-sauce.md
-    - Rolitos (Stuffed Veal Rolls): savoury/rolitos.md
-    - Root Veg Crisps with Houmous: savoury/root-veg-crisps-with-houmous.md
-    - Rosto (Pork Pasta Stew): savoury/rosto.md
-    - Saffron, Ham & Cheese Croquetas: savoury/saffron-ham-and-cheese-croquetas.md
-    - Sausage & Bean Casserole: savoury/sausage-and-bean-casserole.md
-    - Skillingsbolle (Cinnamon Rolls): savoury/skillingsbolle.md
-    - Spaghetti alla Carbonara: savoury/spaghetti-alla-carbonara.md
-    - Spanish Style Rabbit Stew: savoury/spanish-style-rabbit-stew.md
-    - Spinach and Ricotta Ravioli: savoury/spinach-and-ricotta-ravioli.md
-    - Sweet Potato with Masala-Spiced Baked Beans: savoury/sweet-potato-masala-spiced-baked-beans.md
-    - Teriyaki Beef Stir Fry: savoury/teriyaki-beef-stir-fry.md
-    - Torta de Acelga (Chard Pie): savoury/torta-de-acelga.md
-    - Tuscan Ragu: savoury/tuscan-ragu.md
-    - Ultimate Roast Potatoes: savoury/ultimate-roast-potatoes.md
-    - Unicorn Baked Beans: savoury/unicorn-baked-beans.md
+      - Arancini (Stuffed Rice Balls): savoury/arancini-rice-balls.md
+      - Basic Vegan Nut Roast: savoury/basic-vegan-nut-roast.md
+      - Blue Cheese & Gnocchi Bake: savoury/blue-cheese-and-gnocchi-bake.md
+      - Broad Bean Sauce: savoury/broad-bean-sauce.md
+      - Calentita (Chickpea Flour Bake): savoury/calentita.md
+      - Cauliflower & Stilton Soup: savoury/cauliflower-and-stilton-soup.md
+      - Cauliflower, Potato & Cheddar Soup: savoury/cauliflower-potato-and-cheddar-soup.md
+      - Chicken and Barley Stew: savoury/chicken-and-barley-stew.md
+      - Chicken, Broccoli & Tortellini Soup: savoury/chicken-broccoli-and-tortellini-soup.md
+      - Chicken Enchilada: savoury/chicken-enchilada.md
+      - Chilli Con Carne: savoury/chilli-con-carne.md
+      - Chorizo (Dry Cured) – 5 kg Batch: savoury/chorizo.md
+      - Courgette and Arborio Rice Soup: savoury/courgette-and-arborio-rice-soup.md
+      - Creamy Mushroom & Spinach Pasta: savoury/creamy-mushroom-and-spinach-pasta.md
+      - Creamy Spinach-Stuffed Chicken with Courgette: savoury/creamy-spinach-stuffed-chicken-with-courgette.md
+      - Crispy Air-Fryer Onion Bhajis (Minimal Oil): savoury/crispy-air-fryer-onion-bhajis.md
+      - Curry Goat (Serves 5–6): savoury/curry-goat-serves-5-6.md
+      - Dry Cured Sausage (Basic Ratio): savoury/dry-cured-sausage.md
+      - Fat Knackers (Stuffed Steak Rolls): savoury/fat-knackers.md
+      - Gazpacho Soup: savoury/gazpacho-soup.md
+      - Greek Style Moussaka: savoury/greek-style-moussaka.md
+      - Ham Béchamel Croquettes: savoury/ham-bechamel-croquettes.md
+      - Hoisin-glazed Tuna with Asparagus & Rice Noodles: savoury/hoisin-glazed-tuna-with-asparagus-and-rice-noodles.md
+      - Hungarian Beef Goulash: savoury/hungarian-beef-goulash.md
+      - Mexican Beef & Rice Casserole: savoury/mexican-beef-and-rice-casserole.md
+      - Mexican Chicken Bowl: savoury/mexican-chicken-bowl.md
+      - Minestra (Vegetable Bean Soup): savoury/minestra.md
+      - Onion Bhaji: savoury/onion-bhaji.md
+      - Papas a lo Pobre (Slow-Cooked Potatoes): savoury/papas-a-lo-pobre.md
+      - Pasta Bolognese: savoury/pasta-bolognese.md
+      - Pasta with Salmon and Asparagus: savoury/pasta-with-salmon-and-asparagus.md
+      - Patatas a lo Pobre (Andalusian Potatoes): savoury/patatas-a-lo-pobre.md
+      - Picada Catalana (Nut-Herb Paste): savoury/picada-catalana.md
+      - Pork Chops with Creamy Leeks & New Potatoes: savoury/pork-chops-with-creamy-leeks-and-new-potatoes.md
+      - Prawn & Chorizo Paella: savoury/prawn-and-chorizo-paella.md
+      - Pumpkin & Blue Cheese Risotto: savoury/pumpkin-blue-cheese-risotto.md
+      - Quick Chicken Korma: savoury/quick-chicken-korma.md
+      - Roast Salmon with Peas, Potatoes & Chorizo: savoury/roast-salmon-with-peas-potatoes-and-chorizo.md
+      - Roasted Veg in Yoghurt Sauce: savoury/roasted-veg-in-yoghurt-sauce.md
+      - Rolitos (Stuffed Veal Rolls): savoury/rolitos.md
+      - Root Veg Crisps with Houmous: savoury/root-veg-crisps-with-houmous.md
+      - Rosto (Pork Pasta Stew): savoury/rosto.md
+      - Saffron, Ham & Cheese Croquetas: savoury/saffron-ham-and-cheese-croquetas.md
+      - Sausage & Bean Casserole: savoury/sausage-and-bean-casserole.md
+      - Skillingsbolle (Cinnamon Rolls): savoury/skillingsbolle.md
+      - Spaghetti alla Carbonara: savoury/spaghetti-alla-carbonara.md
+      - Spanish Style Rabbit Stew: savoury/spanish-style-rabbit-stew.md
+      - Spinach and Ricotta Ravioli: savoury/spinach-and-ricotta-ravioli.md
+      - Sweet Potato with Masala-Spiced Baked Beans: savoury/sweet-potato-masala-spiced-baked-beans.md
+      - Teriyaki Beef Stir Fry: savoury/teriyaki-beef-stir-fry.md
+      - Torta de Acelga (Chard Pie): savoury/torta-de-acelga.md
+      - Tuscan Ragu: savoury/tuscan-ragu.md
+      - Ultimate Roast Potatoes: savoury/ultimate-roast-potatoes.md
+      - Unicorn Baked Beans: savoury/unicorn-baked-beans.md
   - Misc:
-    - Bean Soaking & Pressure Cooking Guide: misc/bean-soaking-pressure-cooking-guide.md
-    - Brown & Black Ink (Homemade): misc/brown-ink.md
-    - Building a Smoker (Guide): misc/building-a-smoker.md
-    - Icelandic Skyr Yogurt: misc/icelandic-yogurt-skyr.md
-    - Popcorn Perfection (Minimal Oil): misc/popcorn-perfection-guide.md
-    - Wood Finishes (Raw, Wax, Non-Toxic): misc/raw-wood-finish.md
-    - Reed Diffuser Blends (100 ml Formulas): misc/reed-diffuser-blends.md
-    - Saddle Soap (Leather Care): misc/saddle-soap.md
+      - Bean Soaking & Pressure Cooking Guide: misc/bean-soaking-pressure-cooking-guide.md
+      - Brown & Black Ink (Homemade): misc/brown-ink.md
+      - Building a Smoker (Guide): misc/building-a-smoker.md
+      - Icelandic Skyr Yogurt: misc/icelandic-yogurt-skyr.md
+      - Popcorn Perfection (Minimal Oil): misc/popcorn-perfection-guide.md
+      - Wood Finishes (Raw, Wax, Non-Toxic): misc/raw-wood-finish.md
+      - Reed Diffuser Blends (100 ml Formulas): misc/reed-diffuser-blends.md
+      - Saddle Soap (Leather Care): misc/saddle-soap.md
