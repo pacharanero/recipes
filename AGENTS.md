@@ -12,6 +12,14 @@ Before changing recipes, site structure, or build configuration, check:
 - `recipes/index.md` for the published site landing page.
 - `spec/README.md` and `spec/spec.md` for recipe conversion rules, categories, frontmatter, source attribution, and local testing expectations.
 - `mkdocs.yml` for Zensical site configuration and navigation.
+- `~/code/house-style/AGENTS.md` for cross-repository engineering standards.
+
+## Core Invariants
+
+- Keep the recipe collection Markdown-driven and buildable with Zensical.
+- Keep content, `README.md`, and `mkdocs.yml` navigation consistent when adding or moving recipes.
+- Do not hand-edit generated site output or commit local caches and secrets.
+- Preserve source attribution for web-derived recipes and the repository's split content/code licensing.
 
 ## Recipe Editing
 
@@ -34,11 +42,26 @@ Before changing recipes, site structure, or build configuration, check:
   - `s/check-recipes` runs the content policy check.
 - The production site build command is `zensical build --clean`; for local validation, run it through Docker: `docker compose run --rm zensical zensical build --clean`.
 
+## Before Every Commit
+
+```sh
+s/check-recipes
+docker compose config --quiet
+docker compose run --rm zensical zensical build --clean
+git diff --check
+```
+
+Review the diff as well as the command output. A successful build does not prove recipe accuracy, attribution, or food safety.
+
 ## GitHub Actions
 
 - Keep workflow actions pinned to commit SHAs.
-- Preserve the original tag as a `# pin@<ref>` comment so `pin-github-action` can update the pins later.
+- Preserve the exact release tag as a `# vX.Y.Z` comment.
 - To refresh pins, run `pin-github-action .github/workflows/` from a suitable environment with network access.
+
+## Approval Required
+
+- Ask before deploying manually, changing repository settings or secrets, publishing externally, deleting branches, force-pushing, or taking other externally visible actions.
 
 ## Generated Files
 

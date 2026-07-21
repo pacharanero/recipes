@@ -1,0 +1,13 @@
+version = 1
+
+[[annotations]]
+path = ["recipes/**", "README.md", "HOUSE-STYLE-AUDIT.md", "spec/**"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 Marcus Baw"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = [".dockerignore", ".editorconfig", ".github/**", ".gitignore", "AGENTS.md", "Dockerfile", "LICENSE", "LICENSES/**", "REUSE.toml", "SECURITY.md", "docker-compose.yml", "mkdocs.yml", "overrides/**", "requirements.txt", "s/**"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 Marcus Baw"
+SPDX-License-Identifier = "AGPL-3.0-or-later"

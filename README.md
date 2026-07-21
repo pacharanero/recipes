@@ -154,4 +154,4 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 
 ## Licence
 
-Recipe content, guides, prose, and images are licensed under CC BY-SA 4.0. Code, scripts, workflow configuration, and site configuration are licensed under MIT. See [LICENSE](LICENSE).
+Recipe content, guides, prose, and images are licensed under CC BY-SA 4.0. Code, scripts, workflow configuration, and site configuration are licensed under AGPL-3.0-or-later. See [LICENSE](LICENSE).

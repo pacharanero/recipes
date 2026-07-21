@@ -14,36 +14,6 @@ theme:
   custom_dir: overrides
   logo: assets/recipe-website-logo-white.svg
   favicon: assets/recipe-website-logo-white.svg
-  features:
-    - content.action.edit # explicitly adds edit button (Zensical Material theme)
-    - content.action.view # explicitly adds view button (Zensical Material theme)
-    - content.code.copy
-    - content.code.select
-    - content.code.annotate
-    - navigation.tabs
-    - navigation.instant
-    - navigation.tracking
-    - navigation.top
-    - navigation.path
-    - navigation.sections
-    - navigation.footer
-    - search.highlight
-    - search.share
-    - toc.follow
-  palette:
-    - scheme: default
-      primary: custom
-      accent: amber
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - scheme: slate
-      primary: custom
-      accent: amber
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
-  # Custom CSS to define the custom primary color variable
 extra_css:
   - styles/brand.css
 
@@ -61,8 +31,6 @@ markdown_extensions:
 
 plugins:
   - search
-  - tags:
-      tags_file: tags.md
 
 extra:
   generator: false
