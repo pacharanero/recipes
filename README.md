@@ -82,6 +82,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Ginger Beer](recipes/brewing/ginger-beer.md)
 - [Hoegaarden Clone](recipes/brewing/hoegaarden-clone.md)
 - [How to Make Your Own Gin](recipes/brewing/how-to-make-your-own-gin.md)
+- [Mosaic-Citra Wheat Pale Ale](recipes/brewing/mosaic-citra-wheat-pale-ale.md)
 - [NE IPA (Jon Finch Adaptation)](recipes/brewing/ne-ipa-jon-finch.md)
 - [Nettle, Dandelion & Burdock Beer](recipes/brewing/nettle-dandelion-and-burdock-beer.md)
 - [Simple All-Grain Beer Brewing](recipes/brewing/simple-all-grain-beer-brewing.md)
