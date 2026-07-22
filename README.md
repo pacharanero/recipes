@@ -84,6 +84,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [How to Make Your Own Gin](recipes/brewing/how-to-make-your-own-gin.md)
 - [NE IPA (Jon Finch Adaptation)](recipes/brewing/ne-ipa-jon-finch.md)
 - [Nettle, Dandelion & Burdock Beer](recipes/brewing/nettle-dandelion-and-burdock-beer.md)
+- [Simple All-Grain Beer Brewing](recipes/brewing/simple-all-grain-beer-brewing.md)
 - [Spindle Brew #1 - 503](recipes/brewing/spindle-brew-1-503.md)
 
 ## Savoury Dishes
