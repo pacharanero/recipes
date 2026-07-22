@@ -11,6 +11,7 @@ Before changing recipes, site structure, or build configuration, check:
 - `README.md` for the repository overview and top-level recipe index.
 - `recipes/index.md` for the published site landing page.
 - `spec/README.md` and `spec/spec.md` for recipe conversion rules, categories, frontmatter, source attribution, and local testing expectations.
+- `brewery/README.md` for current ingredient stock and the equipment and process constraints used when designing beer recipes.
 - `mkdocs.yml` for Zensical site configuration and navigation.
 - `~/code/house-style/AGENTS.md` for cross-repository engineering standards.
 
@@ -20,6 +21,7 @@ Before changing recipes, site structure, or build configuration, check:
 - Keep content, `README.md`, and `mkdocs.yml` navigation consistent when adding or moving recipes.
 - Do not hand-edit generated site output or commit local caches and secrets.
 - Preserve source attribution for web-derived recipes and the repository's split content/code licensing.
+- Keep working brewery records under `brewery/`; do not add them to Zensical navigation or move them under the published `recipes/` tree.
 
 ## Recipe Editing
 

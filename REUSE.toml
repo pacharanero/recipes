@@ -1,7 +1,7 @@
 version = 1
 
 [[annotations]]
-path = ["recipes/**", "README.md", "HOUSE-STYLE-AUDIT.md", "spec/**"]
+path = ["brewery/**", "recipes/**", "README.md", "HOUSE-STYLE-AUDIT.md", "spec/**"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = "2026 Marcus Baw"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
