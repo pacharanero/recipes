@@ -91,6 +91,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 ## Savoury Dishes
 
 - [Arancini (Stuffed Rice Balls)](recipes/savoury/arancini-rice-balls.md)
+- [Baked Falafel](recipes/savoury/baked-falafel.md)
 - [Blue Cheese & Gnocchi Bake](recipes/savoury/blue-cheese-and-gnocchi-bake.md)
 - [Broad Bean Sauce](recipes/savoury/broad-bean-sauce.md)
 - [Calentita](recipes/savoury/calentita.md)
@@ -132,6 +133,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Root Veg Crisps with Houmous](recipes/savoury/root-veg-crisps-with-houmous.md)
 - [Rosto](recipes/savoury/rosto.md)
 - [Sausage & Bean Casserole](recipes/savoury/sausage-and-bean-casserole.md)
+- [Southern Fried Chicken](recipes/savoury/southern-fried-chicken.md)
 - [Spanish Style Rabbit Stew](recipes/savoury/spanish-style-rabbit-stew.md)
 - [Spaghetti alla Carbonara](recipes/savoury/spaghetti-alla-carbonara.md)
 - [Sweet Potato with Masala-Spiced Baked Beans](recipes/savoury/sweet-potato-masala-spiced-baked-beans.md)
