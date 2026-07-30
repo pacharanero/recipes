@@ -132,6 +132,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Rolitos](recipes/savoury/rolitos.md)
 - [Root Veg Crisps with Houmous](recipes/savoury/root-veg-crisps-with-houmous.md)
 - [Rosto](recipes/savoury/rosto.md)
+- [Salade Niçoise](recipes/savoury/salade-nicoise.md)
 - [Sausage & Bean Casserole](recipes/savoury/sausage-and-bean-casserole.md)
 - [Southern Fried Chicken](recipes/savoury/southern-fried-chicken.md)
 - [Spanish Style Rabbit Stew](recipes/savoury/spanish-style-rabbit-stew.md)
