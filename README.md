@@ -70,6 +70,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Quick Pizza Dough](recipes/basics/quick-pizza-dough.md)
 - [Spinach and Ricotta Ravioli](recipes/basics/spinach-and-ricotta-ravioli.md)
 - [Olive Oil Béchamel Sauce](recipes/basics/olive-oil-bechamel-sauce.md)
+- [Overnight Pizza Dough](recipes/basics/overnight-pizza-dough.md)
 
 ## Brewing / Fermented Drinks
 

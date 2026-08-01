@@ -7,15 +7,15 @@ category: Basics & Staples
 
 # Quick Pizza Dough
 
-A simple yeast-risen pizza dough that only needs a 5-minute rest before rolling - no overnight proving. Makes 2 thin-crust pizzas, ready in under 40 minutes. The dough can also be left to rise longer if you have time, but it's not required for a thin crust.
+A simple yeast-risen pizza dough that only needs a 5-minute rest before rolling - no overnight proving. Makes 4 thin-crust pizzas, ready in under 40 minutes. The dough can also be left to rise longer if you have time, but it's not required for a thin crust.
 
 ## Ingredients
 
-- 350g tipo 00 flour, plus extra for dusting
-- 1 sachet (7g) fast-action dried yeast
-- ½ tsp caster sugar
-- 200ml warm water
-- 1 tsp salt
+- 700g tipo 00 flour, plus extra for dusting
+- 2 sachets (14g) fast-action dried yeast
+- 1 tsp caster sugar
+- 400ml warm water
+- 2 tsp salt
 
 ## Instructions
 
@@ -27,7 +27,7 @@ A simple yeast-risen pizza dough that only needs a 5-minute rest before rolling 
 
 4. **Prepare the oven.** Heat the oven to 240C/220C fan/gas 8. Put a pizza stone, sturdy baking sheet, or upturned baking tray on the top shelf to heat up.
 
-5. **Shape and bake.** If you've left the dough to rise, knock it back, then divide into two balls. Roll one out on a floured surface into a large circle, then lift onto a floured baking sheet. Add your toppings, then carefully slide the pizza straight onto the hot stone or tray in the oven. Bake for 8-10 minutes until the topping is bubbling and the base is crisp. Repeat with the second ball of dough.
+5. **Shape and bake.** If you've left the dough to rise, knock it back, then divide into four balls. Roll one out on a floured surface into a large circle, then lift onto a floured baking sheet. Add your toppings, then carefully slide the pizza straight onto the hot stone or tray in the oven. Bake for 8-10 minutes until the topping is bubbling and the base is crisp. Repeat with the remaining balls of dough.
 
 ## Notes
 
