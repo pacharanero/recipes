@@ -68,6 +68,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Icelandic Yogurt (Skyr)](recipes/basics/icelandic-yogurt-skyr.md)
 - [Picada Catalana](recipes/basics/picada-catalana.md)
 - [Quick Pizza Dough](recipes/basics/quick-pizza-dough.md)
+- [Refried Beans](recipes/basics/refried-beans.md)
 - [Spinach and Ricotta Ravioli](recipes/basics/spinach-and-ricotta-ravioli.md)
 - [Olive Oil Béchamel Sauce](recipes/basics/olive-oil-bechamel-sauce.md)
 - [Overnight Pizza Dough](recipes/basics/overnight-pizza-dough.md)
