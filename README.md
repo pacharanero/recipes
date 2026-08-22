@@ -51,6 +51,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Pickle (Mixed)](recipes/preserves/pickle.md)
 - [Quince Jam](recipes/preserves/quince-jam.md)
 - [Salad Cream Recipes](recipes/preserves/salad-cream-recipes.md)
+- [Sweet Baby Ray's-Style BBQ Sauce (Clone)](recipes/preserves/sweet-baby-rays-bbq-sauce.md)
 - [Thick Sweet Chilli Sauce](recipes/preserves/thick-sweet-chilli-sauce.md)
 - [Tomato Ketchup](recipes/preserves/tomato-ketchup.md)
 - [Tomato Relish](recipes/preserves/tomato-relish.md)
