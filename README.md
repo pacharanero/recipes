@@ -44,6 +44,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Chilli Jam](recipes/preserves/chilli-jam.md)
 - [Classic Pesto](recipes/preserves/classic-pesto.md)
 - [Indian Lime Pickle](recipes/preserves/indian-lime-pickle.md)
+- [Ketchup Pikantny (Polish-Style Spiced Tomato Ketchup)](recipes/preserves/ketchup-pikantny.md)
 - [Lime Marmalade](recipes/preserves/lime-marmalade.md)
 - [Marrow and Ginger Jam](recipes/preserves/marrow-and-ginger-jam.md)
 - [Membrillo](recipes/preserves/membrillo.md)
