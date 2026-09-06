@@ -41,6 +41,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [Beetroot Relish](recipes/preserves/beetroot-relish.md)
 - [Low-Fat Salad Cream made with Skyr](recipes/preserves/salad-cream-skyr.md)
 - [Caesar Dressing](recipes/preserves/caesar-dressing.md)
+- [Caramelised Onion Chutney](recipes/preserves/caramelised-onion-chutney.md)
 - [Chilli Jam](recipes/preserves/chilli-jam.md)
 - [Classic Pesto](recipes/preserves/classic-pesto.md)
 - [Indian Lime Pickle](recipes/preserves/indian-lime-pickle.md)
