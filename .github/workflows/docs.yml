@@ -15,6 +15,7 @@ on:
       - "requirements.txt"
       - "spec/**"
       - "s/check-recipes"
+      - "s/gen-indexes"
       - ".github/workflows/docs.yml"
   pull_request:
     paths:
@@ -24,6 +25,7 @@ on:
       - "requirements.txt"
       - "spec/**"
       - "s/check-recipes"
+      - "s/gen-indexes"
       - ".github/workflows/docs.yml"
       - ".github/dependabot.yml"
   workflow_dispatch:
@@ -57,6 +59,9 @@ jobs:
 
       - name: Check recipe content policy
         run: s/check-recipes
+
+      - name: Check generated indexes are current
+        run: s/gen-indexes --check
 
       - name: Build Zensical site
         run: zensical build --clean

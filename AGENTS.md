@@ -30,7 +30,7 @@ Before changing recipes, site structure, or build configuration, check:
 - New recipe files must start with YAML frontmatter containing `slug`, `title`, `tags`, and `category`.
 - Keep recipe Markdown plain and practical: H1 title, `## Ingredients`, `## Instructions`, optional storage/notes, and `## Source` for web-derived recipes.
 - Use British English and metric-first measurements.
-- Update `README.md` when adding a recipe so the top-level index stays current.
+- Run `s/gen-indexes` after adding, renaming or removing a recipe: it regenerates the `README.md` index and the section landing pages (`recipes/<category-folder>/index.md`). Never edit those generated lists by hand.
 - Follow `spec/spec.md` for the full recipe conversion rules.
 
 ## Build And Test
@@ -42,12 +42,14 @@ Before changing recipes, site structure, or build configuration, check:
   - `s/up` is a compatibility alias for `s/docs`.
   - `s/down` stops the preview containers.
   - `s/check-recipes` runs the content policy check.
+  - `s/gen-indexes` regenerates the section landing pages and README index; `s/gen-indexes --check` fails if they are stale.
 - The production site build command is `zensical build --clean`; for local validation, run it through Docker: `docker compose run --rm zensical zensical build --clean`.
 
 ## Before Every Commit
 
 ```sh
 s/check-recipes
+s/gen-indexes --check
 docker compose config --quiet
 docker compose run --rm zensical zensical build --clean
 git diff --check
