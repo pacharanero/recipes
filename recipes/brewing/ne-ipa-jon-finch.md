@@ -7,6 +7,8 @@ category: Brewing
 
 # NE IPA (Jon Finch Adaptation)
 
+_Bottled as "Grindy Little NEIPA"_
+
 ## Ingredients
 
 - 5.0 kg pale ale malt

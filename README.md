@@ -83,7 +83,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [All-Citra Pale Ale (Extract)](recipes/brewing/all-citra-pale-ale.md)
 - [Blanche de Chambly (Witbier Clone)](recipes/brewing/blanche-de-chambly-witbier.md)
 - [Chimay Cinq Cents (Tripel Clone)](recipes/brewing/chimay-cinq-cents-tripel.md)
- - [Duvel (Belgian Golden Strong Ale Clone)](recipes/brewing/duvel-belgian-golden-strong-ale.md)
+- [Duvel (Belgian Golden Strong Ale Clone)](recipes/brewing/duvel-belgian-golden-strong-ale.md)
 - [Elderberry Wine](recipes/brewing/elderberry-wine.md)
 - [Elderflower Champagne](recipes/brewing/elderflower-champagne.md)
 - [Ginger Beer](recipes/brewing/ginger-beer.md)
@@ -93,6 +93,7 @@ All recipe markdown files now live in category subfolders under `recipes/` to en
 - [NE IPA (Jon Finch Adaptation)](recipes/brewing/ne-ipa-jon-finch.md)
 - [Nettle, Dandelion & Burdock Beer](recipes/brewing/nettle-dandelion-and-burdock-beer.md)
 - [Simple All-Grain Beer Brewing](recipes/brewing/simple-all-grain-beer-brewing.md)
+- [Simple Pale Ale](recipes/brewing/simple-pale-ale.md)
 - [Spindle Brew #1 - 503](recipes/brewing/spindle-brew-1-503.md)
 
 ## Savoury Dishes
