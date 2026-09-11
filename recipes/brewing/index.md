@@ -11,7 +11,7 @@ category: Brewing
 
 Beers, country wines, infusions and other fermented drinks, along with the process notes that go with them.
 
-15 recipes in this section, listed alphabetically.
+16 recipes in this section, listed alphabetically.
 
 ## All recipes
 
@@ -29,4 +29,5 @@ Beers, country wines, infusions and other fermented drinks, along with the proce
 - [NE IPA (Jon Finch Adaptation)](ne-ipa-jon-finch.md)
 - [Nettle, Dandelion and Burdock Beer](nettle-dandelion-and-burdock-beer.md)
 - [Simple All-Grain Beer Brewing](simple-all-grain-beer-brewing.md)
+- [Simple Pale Ale](simple-pale-ale.md)
 - [Spindle Brew #1 - 503](spindle-brew-1-503.md)
