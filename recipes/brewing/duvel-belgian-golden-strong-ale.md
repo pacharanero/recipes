@@ -8,6 +8,8 @@ source_type: adapted
 
 # Duvel (Belgian Golden Strong Ale Clone)
 
+_Bottled as "Burden Of Dreams"_
+
 ## Ingredients
 
 - 5.2 kg (11.5 lb) Belgian Pilsner malt

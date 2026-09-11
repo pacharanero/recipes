@@ -6,6 +6,11 @@ To ensure consistency when converting recipes to Markdown, follow these persiste
 
 - Use a single H1 heading for the recipe name at the top of the file.
 
+## Alternative Names
+
+- If a recipe is known by another name, for example the name a homebrewed beer was bottled under, add a single italic subtitle line directly below the H1, in the form `_Bottled as "Name"_` or `_Also known as "Name"_`.
+- Keep it to one line so the name is indexed by site search without cluttering the recipe.
+
 ## Ingredients
 
 - Use an H2 heading (`## Ingredients`).

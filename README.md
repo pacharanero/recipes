@@ -60,6 +60,7 @@ Every section below is also published as a landing page on the site, for example
 - [NE IPA (Jon Finch Adaptation)](recipes/brewing/ne-ipa-jon-finch.md)
 - [Nettle, Dandelion and Burdock Beer](recipes/brewing/nettle-dandelion-and-burdock-beer.md)
 - [Simple All-Grain Beer Brewing](recipes/brewing/simple-all-grain-beer-brewing.md)
+- [Simple Pale Ale](recipes/brewing/simple-pale-ale.md)
 - [Spindle Brew #1 - 503](recipes/brewing/spindle-brew-1-503.md)
 
 ## Cocktails
