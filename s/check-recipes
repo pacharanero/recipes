@@ -91,6 +91,24 @@ for path in sorted(content_root.rglob("*.md")):
     if first_heading is None or not first_heading.startswith("# "):
         errors.append(f"{path}: first heading after frontmatter must be an H1")
 
+nav_text = Path("mkdocs.yml").read_text(encoding="utf-8")
+nav_start = nav_text.find("\nnav:\n")
+if nav_start == -1:
+    errors.append("mkdocs.yml: missing nav section")
+else:
+    nav_paths = set(
+        re.findall(r"(?m):\s*([A-Za-z0-9._/-]+\.md)\s*$", nav_text[nav_start:])
+    )
+    content_paths = {
+        path.relative_to(content_root).as_posix()
+        for path in content_root.rglob("*.md")
+        if path not in skip_paths
+    }
+    for path_name in sorted(content_paths - nav_paths):
+        errors.append(f"{content_root / path_name}: not listed in mkdocs.yml nav")
+    for path_name in sorted(nav_paths - content_paths):
+        errors.append(f"mkdocs.yml: nav entry {path_name} does not exist")
+
 if errors:
     print("Recipe policy check failed:\n")
     for error in errors:

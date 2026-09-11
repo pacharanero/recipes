@@ -12,6 +12,8 @@ theme:
   variant: classic
   language: en
   custom_dir: overrides
+  features:
+    - navigation.indexes
   logo: assets/recipe-website-logo-white.svg
   favicon: assets/recipe-website-logo-white.svg
 extra_css:
@@ -40,7 +42,8 @@ extra:
       name: Source on GitHub
 
 nav:
-  - Baking:
+  - Baking & Sweets:
+      - Overview: baking/index.md
       - Bagels: baking/bagels.md
       - Butter Toffee (without thermometer): baking/butter-toffee.md
       - Chaotic Pantry Flapjacks (Honey & Coconut Oil): baking/chaotic-pantry-flapjacks.md
@@ -61,14 +64,19 @@ nav:
       - Chocolate Terrine: baking/rich-chocolate-terrine.md
       - Sponge Cakes with Olive Oil (Magdalenas): baking/sponge-cakes-with-olive-oil-magdalenas.md
       - Ultimate Easy Gingerbread: baking/ultimate-easy-gingerbread.md
-  - Basics:
+  - Basics & Staples:
+      - Overview: basics/index.md
       - Chapatis - Flatbreads - Tortillas: basics/chapatis-flatbreads.md
       - Dumplings: basics/dumplings.md
       - Fresh Pasta (Base + Variations): basics/fresh-pasta.md
       - Homemade Tofu: basics/homemade-tofu.md
       - Olive Oil Béchamel Sauce: basics/olive-oil-bechamel-sauce.md
+      - Overnight Pizza Dough: basics/overnight-pizza-dough.md
+      - Quick Pizza Dough: basics/quick-pizza-dough.md
+      - Refried Beans: basics/refried-beans.md
       - 2-Ingredient Naan Breads: basics/two-ingredient-naan-breads.md
   - Brewing:
+      - Overview: brewing/index.md
       - Adelscott Malt Liquor (Clone): brewing/adelscott-malt-liquor.md
       - All-Citra Pale Ale (Extract): brewing/all-citra-pale-ale.md
       - Blanche de Chambly (Witbier Clone): brewing/blanche-de-chambly-witbier.md
@@ -85,6 +93,7 @@ nav:
       - Simple All-Grain Beer Brewing: brewing/simple-all-grain-beer-brewing.md
       - "Spindle Brew #1 - 503": brewing/spindle-brew-1-503.md
   - Cocktails:
+      - Overview: cocktails/index.md
       - Amaretto Sour: cocktails/amaretto-sour.md
       - Americano: cocktails/americano.md
       - Aperol Spritz: cocktails/aperol-spritz.md
@@ -192,10 +201,11 @@ nav:
       - White Lady: cocktails/white-lady.md
       - White Russian: cocktails/white-russian.md
       - Zombie: cocktails/zombie.md
-      - Cocktails Index: cocktails/README.md
   - Guides:
+      - Overview: guides/index.md
       - Cooking Eggs in an Air Fryer: guides/cooking-eggs-in-an-air-fryer.md
-  - Preserves:
+  - Preserves & Condiments:
+      - Overview: preserves/index.md
       - Apple Chutney: preserves/apple-chutney.md
       - Beetroot Relish: preserves/beetroot-relish.md
       - Caesar Dressing: preserves/caesar-dressing.md
@@ -222,8 +232,10 @@ nav:
       - Tomato Relish: preserves/tomato-relish.md
       - Wicked's Wholegrain Mustard: preserves/wholegrain-mustard.md
       - Worcestershire Sauce (Homemade): preserves/worcestershire-sauce-recipe.md
-  - Savoury:
+  - Savoury Dishes:
+      - Overview: savoury/index.md
       - Arancini (Stuffed Rice Balls): savoury/arancini-rice-balls.md
+      - Baked Falafel: savoury/baked-falafel.md
       - Basic Vegan Nut Roast: savoury/basic-vegan-nut-roast.md
       - Blue Cheese & Gnocchi Bake: savoury/blue-cheese-and-gnocchi-bake.md
       - Broad Bean Sauce: savoury/broad-bean-sauce.md
@@ -267,8 +279,10 @@ nav:
       - Root Veg Crisps with Houmous: savoury/root-veg-crisps-with-houmous.md
       - Rosto (Pork Pasta Stew): savoury/rosto.md
       - Saffron, Ham & Cheese Croquetas: savoury/saffron-ham-and-cheese-croquetas.md
+      - Salade Niçoise: savoury/salade-nicoise.md
       - Sausage & Bean Casserole: savoury/sausage-and-bean-casserole.md
       - Skillingsbolle (Cinnamon Rolls): savoury/skillingsbolle.md
+      - Southern Fried Chicken: savoury/southern-fried-chicken.md
       - Spaghetti alla Carbonara: savoury/spaghetti-alla-carbonara.md
       - Spanish Style Rabbit Stew: savoury/spanish-style-rabbit-stew.md
       - Spinach and Ricotta Ravioli: savoury/spinach-and-ricotta-ravioli.md
@@ -278,7 +292,8 @@ nav:
       - Tuscan Ragu: savoury/tuscan-ragu.md
       - Ultimate Roast Potatoes: savoury/ultimate-roast-potatoes.md
       - Unicorn Baked Beans: savoury/unicorn-baked-beans.md
-  - Misc:
+  - Utility & Misc:
+      - Overview: misc/index.md
       - Bean Soaking & Pressure Cooking Guide: misc/bean-soaking-pressure-cooking-guide.md
       - Brown & Black Ink (Homemade): misc/brown-ink.md
       - Building a Smoker (Guide): misc/building-a-smoker.md

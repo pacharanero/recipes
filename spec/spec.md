@@ -46,17 +46,18 @@ To ensure consistency when converting recipes to Markdown, follow these persiste
 - Save each recipe in the `recipes/<category-folder>/` directory that matches its README section.
 - Save each recipe as a Markdown file with a slugified name (lowercase, hyphens for spaces, no special characters).
 
-## Update the README.md which serves as an index of all recipes.
+## Indexes
 
-- Add a link for the new recipe to the index
-- Follow the style of existing links
-- Use section headers for different types of recipe
-- Under each section alphabetical order is fine
+- The recipe index in `README.md` and the section landing pages (`recipes/<category-folder>/index.md`) are generated.
+- After adding, renaming or removing a recipe, run `s/gen-indexes` and commit the regenerated files. Do not edit them by hand.
+- Recipe titles in those indexes come from each file's `title` frontmatter, so give every recipe the title it should be listed under.
+- Section titles, blurbs and tags live in `s/gen-indexes`; edit them there if a section's description needs to change.
+- Add `featured: true` to a recipe's frontmatter to list it under Highlights at the top of its section page.
 
 ## Navigation Links
 
-- When linking to category sections from the main index, link to the first recipe alphabetically in that category rather than attempting to create category index pages.
-- Users can then use the site navigation to browse within categories.
+- Link to a category from the main index by linking to its section landing page, e.g. `baking/index.md`, which resolves to `/baking/` on the published site.
+- Add every new recipe to the `mkdocs.yml` nav as well; `s/check-recipes` fails if a file under `recipes/` is missing from the nav, or if the nav points at a file that does not exist.
 
 ## Update spec.md
 
