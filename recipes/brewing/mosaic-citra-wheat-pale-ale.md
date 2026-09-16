@@ -8,6 +8,8 @@ source_type: original
 
 # Mosaic-Citra Wheat Pale Ale
 
+_Bottled as "And God Against All"_
+
 A soft, fruit-forward wheat pale ale designed around a simple 30 litre, single-vessel all-grain setup. This is lighter, less bitter and less heavily dry-hopped than the NE IPA.
 
 - Batch size: approximately 20 L packaged
