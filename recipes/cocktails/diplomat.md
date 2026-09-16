@@ -3,16 +3,17 @@ slug: diplomat-cocktail
 title: Diplomat
 tags: [cocktail, vermouth, aperitif]
 category: Drinks
+yields: 1 serving
 ---
 
 # Diplomat
 
 ## Ingredients
 
-- 50 ml dry vermouth
-- 25 ml sweet vermouth
-- 5 ml maraschino liqueur
-- 2 dashes orange bitters
+- {50 ml} dry vermouth
+- {25 ml} sweet vermouth
+- {5 ml} maraschino liqueur
+- {2 dashes} orange bitters
 
 ## Instructions
 

@@ -12,6 +12,7 @@ Before changing recipes, site structure, or build configuration, check:
 - `recipes/index.md` for the published site landing page.
 - `spec/README.md` and `spec/spec.md` for recipe conversion rules, categories, frontmatter, source attribution, and local testing expectations.
 - `brewery/README.md` for current ingredient stock and the equipment and process constraints used when designing beer recipes.
+- `spec/quantity-scaling.md` for the reserved `{...}` quantity token syntax if you are adding or editing ingredient quantities in a tokenised recipe (draft feature; `recipes/cocktails/diplomat.md` is the exemplar).
 - `mkdocs.yml` for Zensical site configuration and navigation.
 - `~/code/house-style/AGENTS.md` for cross-repository engineering standards.
 
