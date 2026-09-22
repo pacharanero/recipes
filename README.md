@@ -24,6 +24,7 @@ Every section below is also published as a landing page on the site, for example
 - [Granola Bars](recipes/baking/granola-bars.md)
 - [Healthy Rhubarb Flapjacks](recipes/baking/healthy-rhubarb-flapjacks.md)
 - [Jijona Turrón (Soft Nougat)](recipes/baking/jijonas-turron-turron-de-jijona.md)
+- [No-Churn Chocolate-Banana Ice Cream](recipes/baking/no-churn-chocolate-banana-ice-cream.md)
 - [No-Knead Baguettes](recipes/baking/no-knead-baguettes.md)
 - [No-Knead Dutch Oven Bread](recipes/baking/no-knead-dutch-oven-bread.md)
 - [Oat Biscuits](recipes/baking/oat-biscuits.md)

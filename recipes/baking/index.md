@@ -11,7 +11,7 @@ category: Baking & Sweets
 
 Breads, biscuits, cakes, puddings and confectionery. Mostly things that need an oven, a bit of patience, or both.
 
-20 recipes in this section, listed alphabetically.
+21 recipes in this section, listed alphabetically.
 
 ## All recipes
 
@@ -28,6 +28,7 @@ Breads, biscuits, cakes, puddings and confectionery. Mostly things that need an 
 - [Granola Bars](granola-bars.md)
 - [Healthy Rhubarb Flapjacks](healthy-rhubarb-flapjacks.md)
 - [Jijona Turrón (Soft Nougat)](jijonas-turron-turron-de-jijona.md)
+- [No-Churn Chocolate-Banana Ice Cream](no-churn-chocolate-banana-ice-cream.md)
 - [No-Knead Baguettes](no-knead-baguettes.md)
 - [No-Knead Dutch Oven Bread](no-knead-dutch-oven-bread.md)
 - [Oat Biscuits](oat-biscuits.md)
