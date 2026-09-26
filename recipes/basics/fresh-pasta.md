@@ -7,7 +7,7 @@ category: Basics & Staples
 
 # Fresh Pasta (Base + Variations)
 
-## Ingredients (Base Dough)
+## Ingredients (Base Dough, Serves 2-4)
 
 - 200 g "00" flour (plus extra for dusting; semolina optional)
 - 2 eggs (room temperature)
@@ -32,4 +32,9 @@ Replace 1 egg with 2 tbsp well‑squeezed spinach purée (blanched, drained, squ
 
 ## Scaling
 
-Use ratio: 1 egg per 100 g flour. For larger batches multiply maintaining same proportion. For very large batches (>600 g flour) rest dough in divided pieces for easier rolling.
+Use 1 egg per 100 g flour. Serving sizes vary with the shape, sauce and whether the pasta is the main part of the meal, but these are useful guides:
+
+- 100 g flour + 1 egg: serves 1-2 people.
+- 200 g flour + 2 eggs (the base dough): serves 2-4 people.
+- 300 g flour + 3 eggs: serves about 4 people.
+- 600 g flour + 6 eggs: serves 6-10 people. Divide the dough before resting and rolling for easier handling.
