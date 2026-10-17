@@ -81,6 +81,7 @@ See the dedicated [Cocktails index](recipes/cocktails/index.md) for all 107 cock
 - [Popcorn Perfection (Minimal Oil)](recipes/misc/popcorn-perfection-guide.md)
 - [Reed Diffuser Blends (100 ml Formulas)](recipes/misc/reed-diffuser-blends.md)
 - [Saddle Soap (Leather Care)](recipes/misc/saddle-soap.md)
+- [Water-Repellent Wool Dressing (Lanolin Treatments)](recipes/misc/water-repellent-wool-dressing.md)
 - [Wood Finishes (Raw, Wax, Non-Toxic)](recipes/misc/raw-wood-finish.md)
 
 ## Preserves & Condiments

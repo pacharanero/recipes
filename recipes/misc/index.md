@@ -11,7 +11,7 @@ category: Utility & Misc
 
 Household and workshop formulas, equipment builds, and the food projects that do not sit neatly anywhere else.
 
-8 pages in this section, listed alphabetically.
+9 pages in this section, listed alphabetically.
 
 ## All pages
 
@@ -22,4 +22,5 @@ Household and workshop formulas, equipment builds, and the food projects that do
 - [Popcorn Perfection (Minimal Oil)](popcorn-perfection-guide.md)
 - [Reed Diffuser Blends (100 ml Formulas)](reed-diffuser-blends.md)
 - [Saddle Soap (Leather Care)](saddle-soap.md)
+- [Water-Repellent Wool Dressing (Lanolin Treatments)](water-repellent-wool-dressing.md)
 - [Wood Finishes (Raw, Wax, Non-Toxic)](raw-wood-finish.md)
