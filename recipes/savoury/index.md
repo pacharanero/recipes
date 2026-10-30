@@ -11,7 +11,7 @@ category: Savoury Dishes
 
 Soups, stews, roasts, pasta, curries and everyday main courses.
 
-58 recipes in this section, listed alphabetically.
+59 recipes in this section, listed alphabetically.
 
 ## A
 
@@ -30,6 +30,7 @@ Soups, stews, roasts, pasta, curries and everyday main courses.
 - [Cauliflower & Stilton Soup](cauliflower-and-stilton-soup.md)
 - [Cauliflower, Potato & Cheddar Soup](cauliflower-potato-and-cheddar-soup.md)
 - [Chicken and Barley Stew](chicken-and-barley-stew.md)
+- [Chicken and Mushroom Blini](chicken-blini.md)
 - [Chicken, Broccoli & Tortellini Soup](chicken-broccoli-and-tortellini-soup.md)
 - [Chicken Enchilada](chicken-enchilada.md)
 - [Chilli Con Carne](chilli-con-carne.md)

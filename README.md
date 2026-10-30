@@ -124,6 +124,7 @@ See the dedicated [Cocktails index](recipes/cocktails/index.md) for all 107 cock
 - [Cauliflower & Stilton Soup](recipes/savoury/cauliflower-and-stilton-soup.md)
 - [Cauliflower, Potato & Cheddar Soup](recipes/savoury/cauliflower-potato-and-cheddar-soup.md)
 - [Chicken and Barley Stew](recipes/savoury/chicken-and-barley-stew.md)
+- [Chicken and Mushroom Blini](recipes/savoury/chicken-blini.md)
 - [Chicken, Broccoli & Tortellini Soup](recipes/savoury/chicken-broccoli-and-tortellini-soup.md)
 - [Chicken Enchilada](recipes/savoury/chicken-enchilada.md)
 - [Chilli Con Carne](recipes/savoury/chilli-con-carne.md)
