@@ -1,7 +1,7 @@
 ---
 slug: curry-pastes
 title: Curry Pastes (Korma, Jalfrezi, Rogan Josh, Tikka Masala, Vindaloo)
-tags: [curry, paste, spice, condiment]
+tags: [curry, paste, spice, condiment, keto]
 category: Preserves & Condiments
 ---
 

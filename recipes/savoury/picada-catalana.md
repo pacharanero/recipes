@@ -1,7 +1,7 @@
 ---
 slug: picada-catalana
 title: Picada Catalana (Nut-Herb Paste)
-tags: [spanish, sauce, condiment]
+tags: [spanish, sauce, condiment, keto]
 category: Preserves & Condiments
 ---
 

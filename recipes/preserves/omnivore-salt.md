@@ -1,7 +1,7 @@
 ---
 slug: omnivore-salt
 title: Omnivore-Style Seasoning Salt
-tags: [salt, seasoning, condiment, fennel, pepper]
+tags: [salt, seasoning, condiment, fennel, pepper, keto]
 category: Preserves & Condiments
 ---
 

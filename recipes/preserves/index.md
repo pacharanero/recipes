@@ -11,7 +11,7 @@ category: Preserves & Condiments
 
 Jams, chutneys, pickles, ferments, sauces and dressings: anything made to keep, or made to go alongside something else.
 
-26 recipes in this section, listed alphabetically.
+28 recipes in this section, listed alphabetically.
 
 ## All recipes
 
@@ -22,8 +22,10 @@ Jams, chutneys, pickles, ferments, sauces and dressings: anything made to keep, 
 - [Classic Pesto](classic-pesto.md)
 - [Curry Pastes (Korma, Jalfrezi, Rogan Josh, Tikka Masala, Vindaloo)](curry-pastes.md)
 - [Fridge Raid Sauerkraut](fridge-raid-sauerkraut.md)
+- [Homemade Extra-Thick Mayonnaise](extra-thick-mayonnaise.md)
 - [Indian Lime Pickle](indian-lime-pickle.md)
 - [Ketchup Pikantny (Polish-Style Spiced Tomato Ketchup)](ketchup-pikantny.md)
+- [Keto Fresh Tomato Ketchup](keto-fresh-tomato-ketchup.md)
 - [Lime Marmalade](lime-marmalade.md)
 - [Low-Fat Salad Cream made with Skyr](salad-cream-skyr.md)
 - [Marrow & Ginger Jam](marrow-and-ginger-jam.md)

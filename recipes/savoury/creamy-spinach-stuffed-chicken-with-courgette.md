@@ -1,7 +1,7 @@
 ---
 slug: creamy-spinach-stuffed-chicken-with-courgette
 title: Creamy Spinach-Stuffed Chicken with Courgette
-tags: [ww, chicken, spinach, courgette, bake]
+tags: [ww, chicken, spinach, courgette, bake, keto]
 category: Savoury Dishes
 ---
 

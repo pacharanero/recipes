@@ -1,7 +1,7 @@
 ---
 slug: homemade-tofu
 title: Homemade Tofu
-tags: [tofu, vegan, staple]
+tags: [tofu, vegan, staple, keto]
 category: Basics & Staples
 ---
 

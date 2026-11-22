@@ -2,7 +2,7 @@
 slug: classic-pesto
 title: Classic Pesto
 category: Preserves & Condiments
-tags: [pesto, sauce, basil, vegetarian]
+tags: [pesto, sauce, basil, vegetarian, keto]
 source: "Adapted from BBC Good Food: https://www.bbcgoodfood.com/recipes/classic-pesto"
 ---
 

@@ -11,7 +11,7 @@ category: Basics & Staples
 
 The building blocks: doughs, flatbreads, pasta, sauces and other components that other recipes lean on.
 
-9 recipes in this section, listed alphabetically.
+12 recipes in this section, listed alphabetically.
 
 ## All recipes
 
@@ -20,6 +20,9 @@ The building blocks: doughs, flatbreads, pasta, sauces and other components that
 - [Dumplings](dumplings.md)
 - [Fresh Pasta (Base + Variations)](fresh-pasta.md)
 - [Homemade Tofu](homemade-tofu.md)
+- [Keto Fathead Dumplings](keto-fathead-dumplings.md)
+- [Keto Hamburger Buns](keto-hamburger-buns.md)
+- [Keto Wraps](keto-wraps.md)
 - [Olive Oil Béchamel Sauce](olive-oil-bechamel-sauce.md)
 - [Overnight Pizza Dough](overnight-pizza-dough.md)
 - [Quick Pizza Dough](quick-pizza-dough.md)
